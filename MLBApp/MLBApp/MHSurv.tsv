@@ -1,0 +1,990 @@
+Gender	Country	self_employed	family_history	treatment	no_employees	remote_work	tech_company	benefits	care_options	wellness_program	seek_help	anonymity	leave	mental_health_consequence	phys_health_consequence	coworkers	supervisor	mental_health_interview	phys_health_interview	mental_vs_physical	obs_consequence
+male	United States	Yes	Yes	No	1-5	Yes	Yes	Yes	Not sure	Yes	Don't know	Yes	Very easy	No	No	Yes	Yes	No	Yes	Yes	Yes
+male	United States	No	Yes	Yes	100-500	No	Yes	Yes	Yes	No	No	No	Somewhat difficult	Maybe	No	Some of them	Some of them	No	No	No	No
+male	United States	Yes	No	No	1-5	Yes	Yes	No	No	No	No	Yes	Somewhat difficult	No	No	Some of them	Some of them	No	Maybe	Yes	No
+male	United States	No	No	Yes	26-100	Yes	Yes	Yes	Yes	No	No	Don't know	Don't know	Maybe	No	Some of them	Yes	No	Maybe	No	No
+male	United States	No	No	Yes	More than 1000	No	No	Don't know	No	No	Don't know	Don't know	Don't know	Maybe	No	No	No	No	Yes	Don't know	No
+male	United States	No	Yes	Yes	26-100	No	Yes	Yes	Not sure	Don't know	Yes	Yes	Don't know	No	No	Yes	Yes	No	Yes	Don't know	No
+male	United States	No	Yes	Yes	More than 1000	No	No	Yes	Yes	No	Don't know	No	Very easy	Yes	No	Some of them	Yes	No	Yes	No	No
+male	United States	No	No	No	1-5	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	No	No	No	Don't know	No
+female	United States	No	Yes	Yes	6-25	Yes	Yes	Yes	Yes	Don't know	Don't know	Don't know	Don't know	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United States	No	No	Yes	26-100	Yes	Yes	Don't know	Not sure	No	Don't know	Don't know	Somewhat difficult	No	No	Some of them	No	No	No	No	No
+male	United Kingdom	No	No	No	6-25	No	Yes	No	No	No	No	Don't know	Very difficult	Yes	Maybe	Some of them	No	No	Maybe	No	No
+male	United Kingdom	No	No	No	6-25	Yes	Yes	No	No	No	No	Don't know	Don't know	Yes	Yes	Some of them	Some of them	No	Maybe	No	No
+male	United States	Yes	Yes	No	1-5	Yes	Yes	No	Yes	No	No	Don't know	Somewhat difficult	Yes	No	No	No	No	No	No	Yes
+male	United Kingdom	No	Yes	Yes	500-1000	Yes	Yes	Don't know	No	No	No	Yes	Somewhat easy	Maybe	No	Some of them	Yes	No	Yes	Don't know	No
+male	United States	No	Yes	Yes	26-100	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Very easy	Maybe	No	Some of them	Some of them	Maybe	Yes	Don't know	No
+female	United States	No	No	Yes	1-5	No	Yes	Yes	Yes	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	Yes	No
+male	United States	No	No	Yes	6-25	No	Yes	No	Yes	No	No	Don't know	Very easy	No	No	Yes	Yes	Maybe	Maybe	Don't know	No
+male	Canada	No	No	No	1-5	No	Yes	No	No	No	No	Don't know	Very easy	Yes	Maybe	Some of them	No	No	No	Don't know	No
+male	United States	No	No	No	100-500	No	Yes	Yes	Yes	No	Don't know	Don't know	Don't know	No	No	Some of them	Yes	No	Maybe	Don't know	No
+male	United States	No	No	Yes	More than 1000	Yes	Yes	Yes	Yes	No	Yes	Yes	Very easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United Kingdom	No	No	Yes	6-25	No	Yes	No	No	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	No	No	Yes	No	Yes
+male	United States	No	No	No	More than 1000	Yes	Yes	Yes	Not sure	Don't know	Yes	Don't know	Somewhat difficult	Yes	Yes	Some of them	No	No	Maybe	Don't know	No
+male	Canada	No	Yes	Yes	1-5	No	Yes	No	Yes	No	No	Yes	Very difficult	Maybe	No	Some of them	No	No	No	Yes	No
+male	United States	No	No	Yes	26-100	No	Yes	Don't know	No	No	No	Don't know	Don't know	No	No	No	No	No	Maybe	Don't know	No
+female	United States	No	Yes	Yes	26-100	No	Yes	Yes	Yes	No	Yes	Yes	Somewhat easy	No	No	Some of them	Yes	No	No	Yes	No
+male	United Kingdom	No	No	No	26-100	No	Yes	Don't know	Not sure	No	No	Don't know	Don't know	No	Maybe	Some of them	Yes	Maybe	Yes	Don't know	No
+male	United States	No	No	No	6-25	No	Yes	No	No	No	No	Don't know	Don't know	No	No	Yes	Yes	Maybe	Yes	Don't know	No
+male	Canada	Yes	No	No	1-5	No	Yes	No	Yes	Yes	No	Don't know	Don't know	No	No	Yes	Yes	No	No	Yes	No
+male	United States	No	Yes	Yes	26-100	No	Yes	Yes	No	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	Yes	Yes	6-25	No	Yes	No	Yes	No	No	Yes	Very difficult	Maybe	No	No	No	No	Maybe	Don't know	No
+male	United States	No	No	No	100-500	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Yes	Maybe	Maybe	Don't know	No
+male	United States	No	No	No	100-500	Yes	Yes	Don't know	No	Don't know	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	Maybe	Maybe	Don't know	No
+male	United States	No	No	No	1-5	Yes	Yes	Don't know	Not sure	No	No	Don't know	Don't know	Maybe	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	Yes	Yes	26-100	No	Yes	Yes	Yes	No	No	Yes	Don't know	Maybe	No	No	No	No	No	Don't know	No
+male	United States	No	Yes	No	6-25	Yes	Yes	Don't know	No	No	No	Don't know	Somewhat easy	No	No	Yes	Yes	No	No	Yes	No
+male	United States	No	Yes	Yes	26-100	Yes	Yes	Don't know	No	No	No	Don't know	Don't know	No	Maybe	Some of them	Yes	Yes	Yes	No	No
+male	United States	No	No	No	26-100	No	No	No	No	No	No	Yes	Somewhat easy	No	No	Some of them	Yes	Maybe	Yes	Don't know	No
+male	Canada	No	Yes	Yes	6-25	Yes	Yes	Don't know	No	No	No	No	Somewhat difficult	Yes	No	No	No	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	More than 1000	No	No	Yes	No	No	Don't know	Don't know	Don't know	Yes	Maybe	Some of them	No	No	Maybe	Don't know	Yes
+male	United Kingdom	No	No	No	100-500	No	Yes	Yes	Not sure	No	Yes	Don't know	Somewhat easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	Canada	No	No	No	6-25	No	Yes	Don't know	No	No	No	Don't know	Somewhat easy	No	No	Some of them	Yes	No	Maybe	Don't know	No
+male	United States	No	Yes	No	More than 1000	Yes	Yes	Yes	Yes	Yes	Yes	Don't know	Don't know	Yes	Maybe	Some of them	No	No	No	No	Yes
+male	United States	No	No	No	100-500	Yes	Yes	Yes	No	Don't know	Yes	Don't know	Don't know	Maybe	No	Some of them	Some of them	Maybe	Yes	Yes	No
+female	United States	No	No	No	26-100	Yes	No	Don't know	No	Don't know	Don't know	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+male	United States	Yes	No	No	1-5	Yes	Yes	No	No	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	No	Don't know	No
+male	Canada	No	No	No	6-25	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Somewhat easy	No	No	Some of them	Yes	No	No	Don't know	No
+female	United States	No	No	No	More than 1000	No	Yes	Yes	Yes	No	No	Yes	Somewhat difficult	Maybe	No	Yes	Yes	No	No	No	No
+male	United Kingdom	No	No	No	26-100	No	Yes	No	No	No	Don't know	Yes	Somewhat easy	No	No	Some of them	Yes	Maybe	Yes	Yes	No
+male	United States	No	No	No	More than 1000	No	Yes	Don't know	Not sure	Yes	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	Maybe	Yes	No
+male	United Kingdom	No	No	No	1-5	No	Yes	No	Yes	No	No	No	Somewhat difficult	Yes	No	No	No	No	Maybe	No	No
+male	United States	No	No	No	More than 1000	Yes	Yes	Yes	Yes	Yes	Yes	Don't know	Don't know	No	No	Yes	Yes	Maybe	Yes	Yes	No
+male	United States	Yes	Yes	No	1-5	Yes	Yes	No	No	No	No	Yes	Somewhat difficult	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United States	No	Yes	Yes	26-100	Yes	Yes	No	No	No	No	Don't know	Somewhat difficult	Yes	No	Some of them	No	No	Yes	No	No
+male	United States	No	Yes	No	100-500	Yes	Yes	Yes	Yes	No	Yes	Don't know	Don't know	No	No	Yes	Some of them	Maybe	Maybe	Yes	No
+male	United Kingdom	No	No	No	26-100	No	Yes	Yes	Not sure	Yes	Don't know	Don't know	Very easy	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+male	Canada	No	No	No	26-100	No	No	No	No	No	No	Don't know	Don't know	No	No	Some of them	Yes	No	No	No	No
+female	United States	Yes	No	Yes	1-5	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Very easy	Maybe	Maybe	Some of them	Yes	No	Maybe	Yes	No
+male	United States	No	Yes	No	More than 1000	No	Yes	No	No	No	No	Don't know	Don't know	Yes	No	No	No	No	Maybe	No	No
+male	United States	No	No	No	26-100	No	Yes	Don't know	Not sure	No	No	Don't know	Don't know	No	No	Some of them	Yes	Maybe	Maybe	No	No
+male	United Kingdom	Yes	No	Yes	6-25	No	Yes	No	No	No	No	Don't know	Very difficult	Maybe	No	Some of them	No	No	Maybe	No	Yes
+female	United States	No	Yes	Yes	500-1000	Yes	Yes	Yes	Not sure	No	Don't know	Don't know	Don't know	Yes	Maybe	Some of them	Some of them	No	No	Don't know	No
+female	United States	No	No	Yes	26-100	No	Yes	Yes	Yes	No	No	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	Maybe	No	Yes
+male	United States	No	No	No	500-1000	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	No	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	No	No	500-1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	No	No	Some of them	Yes	No	No	Yes	No
+male	United States	No	No	Yes	26-100	No	Yes	No	Yes	No	No	Yes	Very difficult	No	No	Yes	Yes	Yes	Yes	No	No
+male	United States	No	No	No	26-100	No	Yes	Don't know	No	No	No	Don't know	Somewhat easy	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+female	Canada	No	No	Yes	26-100	No	Yes	Yes	Yes	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	Yes	No	Maybe	Don't know	No
+male	United States	No	No	No	26-100	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	No	No	Yes	Yes	Maybe	Maybe	No	No
+male	United States	No	Yes	No	26-100	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Somewhat easy	Maybe	Maybe	Some of them	No	No	Maybe	Don't know	No
+male	United States	No	No	Yes	6-25	No	Yes	No	Yes	No	No	Don't know	Somewhat easy	Maybe	No	Some of them	No	No	Maybe	No	No
+male	United States	No	No	Yes	1-5	No	Yes	No	Yes	No	No	Yes	Somewhat easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+female	Canada	No	Yes	Yes	26-100	No	No	No	Yes	No	No	No	Very difficult	Yes	No	No	No	No	Maybe	No	Yes
+female	United States	No	No	No	100-500	No	Yes	Yes	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	Maybe	No	Some of them	No	No	Don't know	No
+male	United States	No	Yes	No	26-100	No	Yes	Don't know	No	Don't know	Don't know	Don't know	Very easy	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	Yes	Yes	26-100	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	Not sure	Yes	Don't know	Don't know	Somewhat easy	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	Yes	No	6-25	No	Yes	Yes	Not sure	No	No	Yes	Somewhat easy	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	Yes	Yes	26-100	Yes	Yes	Don't know	Not sure	No	No	Don't know	Somewhat easy	No	No	Some of them	Yes	No	Maybe	No	No
+male	United States	No	Yes	No	6-25	Yes	Yes	Yes	No	No	No	Don't know	Don't know	Maybe	No	No	No	No	No	Don't know	No
+male	United States	No	No	Yes	26-100	No	Yes	Yes	No	Yes	Yes	Yes	Somewhat difficult	Maybe	No	Some of them	Yes	No	Maybe	Yes	No
+male	United States	No	No	Yes	500-1000	No	Yes	Yes	Yes	No	Don't know	Yes	Don't know	Yes	No	No	No	No	Yes	No	No
+male	United States	No	No	Yes	26-100	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	No	No	Some of them	Some of them	No	Maybe	Yes	No
+male	United States	No	Yes	Yes	6-25	Yes	Yes	Yes	Yes	No	Yes	Yes	Very easy	No	No	Yes	Yes	Yes	Yes	Yes	No
+male	United States	No	No	No	100-500	No	Yes	Yes	Yes	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+male	United Kingdom	No	No	No	6-25	No	Yes	Don't know	No	No	Don't know	Don't know	Very easy	No	No	Some of them	Some of them	No	No	Don't know	Yes
+male	United Kingdom	Yes	No	No	1-5	Yes	No	No	Yes	No	No	Yes	Very difficult	Yes	No	Some of them	Yes	No	Maybe	No	No
+male	Canada	No	No	No	6-25	No	No	Yes	Yes	Yes	Yes	Yes	Very easy	Maybe	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	No	Yes	1-5	Yes	Yes	No	No	No	No	Yes	Very easy	No	No	Some of them	No	No	No	Don't know	No
+male	United States	No	No	No	26-100	Yes	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	No	No	Some of them	Yes	Maybe	Maybe	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	Yes	No	Yes	Don't know	Don't know	Yes	Yes	No	No	No	No	Don't know	No
+male	United States	No	No	No	26-100	Yes	Yes	Don't know	No	No	No	Don't know	Very easy	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	Yes	Yes	6-25	Yes	Yes	Don't know	No	Don't know	Don't know	Yes	Very easy	No	No	Yes	Yes	No	Maybe	Yes	No
+male	United States	No	No	No	6-25	No	Yes	Yes	No	No	No	Yes	Don't know	Maybe	No	No	No	No	No	Don't know	No
+male	Canada	No	No	Yes	100-500	No	No	Yes	Not sure	No	No	Don't know	Very difficult	Maybe	No	Some of them	Yes	No	Maybe	No	Yes
+male	United States	No	Yes	No	500-1000	No	Yes	Yes	No	Yes	Yes	Yes	Don't know	Yes	No	Some of them	No	No	Yes	Don't know	No
+male	United Kingdom	No	No	No	6-25	No	Yes	No	No	No	No	Don't know	Don't know	No	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	No	Yes	100-500	No	Yes	Yes	Yes	No	Yes	Yes	Don't know	Yes	No	No	Yes	No	No	Don't know	No
+male	United Kingdom	No	Yes	No	6-25	No	Yes	No	No	No	No	Don't know	Somewhat easy	Maybe	Maybe	No	No	No	No	Yes	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	No	No	Don't know	Very easy	Maybe	No	Yes	Some of them	No	Yes	No	No
+male	United States	No	No	No	1-5	Yes	Yes	No	Yes	No	No	Don't know	Very difficult	Maybe	No	Yes	Some of them	No	Yes	Don't know	No
+male	United States	No	No	No	26-100	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Yes	Yes	Maybe	Maybe	Don't know	No
+male	Canada	No	No	Yes	26-100	No	Yes	Don't know	No	No	No	Don't know	Don't know	No	No	Some of them	Yes	Maybe	Yes	Don't know	No
+male	United Kingdom	No	No	No	26-100	No	No	No	No	No	No	Don't know	Don't know	Yes	Maybe	No	No	No	No	Don't know	No
+male	United Kingdom	No	No	No	6-25	No	Yes	Don't know	No	No	No	Yes	Very easy	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Not sure	No	No	Don't know	Somewhat easy	No	No	Yes	Yes	No	No	Don't know	No
+female	United States	No	No	No	6-25	No	Yes	Don't know	No	No	Don't know	Don't know	Somewhat easy	Maybe	No	Some of them	No	No	No	Don't know	No
+male	United States	No	Yes	Yes	100-500	No	Yes	Don't know	No	Don't know	Don't know	Don't know	Don't know	Maybe	No	Some of them	Yes	No	No	Don't know	No
+male	United Kingdom	Yes	No	Yes	More than 1000	No	No	No	Yes	Yes	Yes	Yes	Very difficult	Yes	Yes	Some of them	No	No	Maybe	Yes	No
+male	United States	No	No	No	26-100	Yes	No	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	Yes	No	Some of them	No	No	Maybe	Don't know	No
+male	United States	No	No	No	More than 1000	Yes	No	Yes	No	Don't know	Yes	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+female	United States	No	Yes	No	More than 1000	Yes	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	100-500	No	No	Yes	Yes	Yes	Yes	Don't know	Somewhat easy	Maybe	Maybe	Some of them	Yes	Maybe	Maybe	Don't know	No
+male	United Kingdom	No	No	No	6-25	No	Yes	No	No	No	No	Yes	Don't know	Maybe	Maybe	No	Some of them	No	No	Don't know	No
+male	United States	No	No	No	6-25	No	No	No	No	No	No	No	Somewhat easy	Yes	Yes	No	No	No	No	No	No
+female	United States	No	No	No	100-500	Yes	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	Maybe	No	No	Some of them	No	Maybe	Don't know	No
+male	Canada	Yes	Yes	No	1-5	Yes	Yes	Don't know	Not sure	No	Yes	Yes	Somewhat easy	Maybe	No	Some of them	Some of them	Maybe	Maybe	Don't know	No
+male	United States	No	Yes	No	26-100	No	Yes	Don't know	Not sure	No	No	Don't know	Very easy	No	No	Some of them	Some of them	No	Maybe	No	No
+male	United States	No	No	No	6-25	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Some of them	Maybe	Maybe	Don't know	No
+male	United Kingdom	No	Yes	Yes	More than 1000	No	No	Yes	Yes	Yes	Yes	Yes	Somewhat difficult	Yes	Maybe	Some of them	No	No	Yes	No	Yes
+male	United States	No	Yes	Yes	26-100	No	No	Don't know	No	No	Don't know	Don't know	Somewhat difficult	Maybe	No	Some of them	Some of them	No	Maybe	No	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	No	No	No	Some of them	No	Maybe	Don't know	No
+male	United States	No	No	No	26-100	No	No	Don't know	Not sure	No	No	Don't know	Don't know	Yes	Maybe	Some of them	Yes	No	Maybe	No	No
+male	United States	No	No	Yes	26-100	Yes	Yes	No	Yes	No	No	Don't know	Somewhat difficult	Maybe	No	Some of them	Yes	No	No	Don't know	Yes
+male	United States	No	Yes	Yes	26-100	No	Yes	Don't know	Not sure	No	No	Don't know	Very easy	Maybe	No	Some of them	No	No	No	Don't know	Yes
+male	United Kingdom	No	No	Yes	More than 1000	No	No	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Maybe	Maybe	Some of them	Some of them	No	Maybe	Don't know	Yes
+female	United States	No	Yes	Yes	500-1000	No	Yes	Yes	No	No	No	Don't know	Don't know	Yes	Yes	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	No	No	Yes	Don't know	Don't know	No	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	Yes	No	6-25	No	Yes	Don't know	No	No	No	Don't know	Don't know	Maybe	No	Some of them	Yes	No	No	Don't know	No
+female	United States	Yes	Yes	Yes	1-5	No	Yes	No	Yes	Yes	Yes	Yes	Very difficult	No	No	Some of them	Yes	No	Yes	Yes	No
+female	United Kingdom	Yes	Yes	No	1-5	Yes	Yes	No	Yes	No	No	Yes	Somewhat easy	No	No	Yes	Yes	No	Maybe	Yes	No
+male	United States	No	No	No	26-100	No	Yes	No	No	No	No	Don't know	Very easy	Maybe	No	Some of them	Some of them	No	Maybe	Don't know	No
+male	United States	No	No	No	6-25	No	Yes	No	Yes	No	No	Don't know	Very difficult	Maybe	No	Yes	Yes	No	Maybe	No	No
+male	United Kingdom	No	No	No	100-500	No	Yes	Don't know	Not sure	Yes	Don't know	Don't know	Very easy	Maybe	Maybe	Some of them	Some of them	No	Maybe	Don't know	No
+male	United Kingdom	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Don't know	Don't know	Yes	Somewhat easy	No	No	Yes	Yes	No	No	Don't know	No
+male	United Kingdom	Yes	No	Yes	6-25	No	Yes	Don't know	No	No	No	Don't know	Don't know	Maybe	No	Some of them	Yes	No	Maybe	Don't know	No
+female	United States	No	No	No	6-25	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	Yes	No	Maybe	Yes	No
+female	Canada	No	Yes	Yes	More than 1000	No	No	Yes	Yes	Yes	No	Don't know	Somewhat easy	No	No	Some of them	Yes	No	No	No	No
+male	United States	No	No	No	26-100	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	Maybe	No	No	Some of them	No	Maybe	Don't know	No
+male	United Kingdom	No	No	No	100-500	No	No	No	Not sure	No	Yes	Yes	Somewhat easy	No	No	Some of them	Some of them	Maybe	Maybe	Yes	No
+female	United States	No	No	Yes	6-25	Yes	Yes	Yes	Not sure	Don't know	Don't know	Yes	Very easy	No	No	Yes	Yes	No	No	Yes	Yes
+female	United States	No	No	Yes	1-5	No	Yes	Yes	No	No	No	Yes	Somewhat difficult	No	No	Yes	Yes	No	No	Yes	No
+male	United States	No	No	No	6-25	Yes	Yes	Don't know	No	No	No	Don't know	Very easy	No	No	Yes	Yes	No	Maybe	Don't know	No
+female	United Kingdom	No	No	No	26-100	No	Yes	Don't know	No	No	Don't know	Yes	Somewhat easy	No	No	Yes	Yes	Maybe	Maybe	Don't know	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	Yes	Yes	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	Yes	Yes	More than 1000	Yes	Yes	Yes	Not sure	No	Don't know	Don't know	Very difficult	Yes	Maybe	No	No	No	No	No	No
+male	United States	No	No	No	500-1000	Yes	Yes	Yes	No	No	No	Don't know	Don't know	Yes	No	Some of them	No	Maybe	Yes	No	No
+male	United Kingdom	No	No	No	6-25	No	Yes	Don't know	No	No	Don't know	Don't know	Somewhat easy	Maybe	No	Some of them	Yes	Maybe	Yes	Yes	No
+male	United Kingdom	No	Yes	No	1-5	Yes	Yes	Don't know	No	No	No	Don't know	Don't know	No	No	Some of them	Yes	Maybe	Yes	Don't know	No
+female	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Not sure	Don't know	No	Yes	Somewhat easy	Maybe	No	No	No	No	No	Don't know	No
+male	United States	No	Yes	Yes	26-100	No	Yes	Yes	No	No	No	Don't know	Somewhat easy	Maybe	Maybe	Some of them	No	No	Maybe	No	No
+male	United States	No	No	Yes	6-25	No	Yes	No	No	No	No	Yes	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+female	United States	No	No	No	500-1000	Yes	Yes	Don't know	Not sure	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	No	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	No	No	No	Yes	Somewhat easy	No	No	Some of them	Yes	No	Maybe	No	No
+male	United States	No	Yes	No	6-25	Yes	Yes	Yes	Yes	No	No	Don't know	Somewhat easy	Maybe	Maybe	Some of them	Some of them	No	Maybe	Yes	No
+male	United Kingdom	No	Yes	Yes	More than 1000	No	Yes	Don't know	No	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	No	No	Maybe	Don't know	No
+female	United States	No	Yes	Yes	26-100	No	Yes	Yes	No	No	No	Don't know	Very easy	No	No	Some of them	Some of them	No	No	Yes	No
+female	United States	No	No	Yes	500-1000	No	No	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Maybe	No	Some of them	Yes	No	No	Yes	No
+male	United States	No	No	Yes	6-25	Yes	Yes	No	Not sure	No	No	Don't know	Very difficult	Maybe	Maybe	Some of them	Some of them	Maybe	Maybe	Don't know	No
+male	United Kingdom	No	Yes	Yes	100-500	Yes	Yes	Don't know	Not sure	No	No	Don't know	Somewhat difficult	Yes	Maybe	No	No	No	No	No	Yes
+male	Canada	No	No	Yes	6-25	Yes	Yes	No	Yes	No	No	Don't know	Somewhat difficult	No	No	Some of them	Some of them	Maybe	Maybe	Yes	No
+male	United States	No	No	Yes	26-100	No	Yes	No	Yes	No	No	Yes	Somewhat easy	Maybe	No	Yes	Yes	No	Maybe	Don't know	No
+male	United States	No	No	No	26-100	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+female	United States	No	No	No	26-100	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	No	No	Some of them	Yes	No	No	Yes	No
+male	United Kingdom	No	Yes	No	26-100	No	No	No	No	No	No	Don't know	Don't know	Yes	Maybe	Some of them	Yes	No	Maybe	Don't know	No
+male	United Kingdom	Yes	No	Yes	1-5	Yes	Yes	No	No	No	No	Don't know	Don't know	Yes	No	No	No	No	Maybe	Don't know	No
+female	United States	No	Yes	Yes	6-25	No	Yes	Don't know	No	No	No	No	Don't know	Yes	Maybe	Some of them	Some of them	No	Maybe	No	Yes
+female	United States	No	No	Yes	100-500	No	No	Yes	Yes	Don't know	Don't know	Yes	Very easy	No	No	Yes	Yes	No	Yes	Yes	No
+female	United States	Yes	Yes	Yes	1-5	Yes	Yes	No	No	Don't know	Don't know	Don't know	Very difficult	No	No	Some of them	No	No	No	Don't know	No
+male	Canada	Yes	No	No	6-25	No	Yes	Yes	Yes	No	Don't know	Yes	Very easy	No	No	Some of them	Some of them	No	No	Yes	No
+female	United States	No	No	Yes	500-1000	No	No	Yes	No	No	Don't know	Don't know	Somewhat difficult	Maybe	No	Some of them	No	No	No	Don't know	No
+male	United States	No	No	No	26-100	No	Yes	Yes	Not sure	No	No	Don't know	Very easy	Yes	No	No	Some of them	No	No	Don't know	No
+female	United States	No	No	No	6-25	No	Yes	Yes	No	No	No	Don't know	Somewhat easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United Kingdom	No	No	No	26-100	No	Yes	Don't know	No	No	No	Don't know	Don't know	No	No	Yes	Yes	Yes	Yes	Don't know	No
+male	United States	No	No	No	6-25	No	Yes	Don't know	No	No	No	Don't know	Don't know	No	No	Some of them	Some of them	No	Maybe	Don't know	No
+male	United States	No	No	Yes	More than 1000	No	Yes	No	Yes	No	No	Yes	Very difficult	Yes	No	No	Some of them	No	No	No	No
+male	United States	No	No	No	26-100	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	No	Yes	No	Yes	Yes	No
+male	United States	No	No	No	1-5	No	Yes	Don't know	No	Don't know	No	Yes	Very easy	No	No	Yes	Yes	Maybe	Yes	Yes	No
+male	United States	No	No	No	1-5	Yes	Yes	No	Yes	No	No	Don't know	Very difficult	No	No	Some of them	Yes	No	Maybe	Yes	No
+male	United States	No	No	No	6-25	No	Yes	Yes	Not sure	No	Don't know	Don't know	Very easy	Maybe	No	Some of them	No	Maybe	Maybe	Yes	No
+male	United Kingdom	Yes	No	Yes	1-5	No	Yes	No	Yes	No	No	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	Maybe	Yes	No
+male	United States	No	No	Yes	26-100	No	Yes	Yes	No	No	Yes	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	Maybe	Don't know	Yes
+male	United States	No	No	Yes	500-1000	Yes	Yes	Yes	Yes	No	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	No	Maybe	Maybe	No	No
+male	United Kingdom	No	No	Yes	More than 1000	No	No	Don't know	Not sure	Don't know	Don't know	Don't know	Very difficult	Yes	No	No	No	No	Maybe	No	No
+male	United States	No	No	No	26-100	Yes	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	Yes	No	Maybe	No	No
+male	United Kingdom	No	No	No	26-100	No	Yes	No	No	No	No	Don't know	Somewhat difficult	Yes	Maybe	No	No	No	Maybe	No	No
+male	Canada	No	Yes	Yes	26-100	No	Yes	Yes	Yes	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	Yes	Don't know	No
+male	United Kingdom	No	Yes	No	6-25	No	Yes	No	No	No	No	Yes	Somewhat difficult	No	No	Some of them	Yes	No	Yes	No	Yes
+female	United States	No	Yes	Yes	More than 1000	No	No	Yes	Yes	Yes	Yes	Yes	Somewhat easy	No	No	Some of them	Some of them	No	Maybe	Yes	No
+female	Canada	No	Yes	Yes	6-25	No	No	Yes	Yes	Yes	Yes	Yes	Don't know	No	No	Some of them	Yes	No	No	No	Yes
+male	United States	No	Yes	Yes	1-5	No	Yes	No	No	No	No	Don't know	Somewhat difficult	Maybe	No	Some of them	Some of them	No	Maybe	No	Yes
+male	United States	No	Yes	Yes	26-100	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	Yes	Yes	Yes	Yes	Don't know	Don't know	Yes	Somewhat easy	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+male	United States	No	No	Yes	More than 1000	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Don't know	Yes	Maybe	No	No	No	Maybe	No	Yes
+male	United States	No	No	Yes	6-25	No	No	Don't know	No	No	Don't know	Don't know	Don't know	Maybe	No	No	No	No	Maybe	Don't know	No
+male	United Kingdom	No	No	No	6-25	No	No	No	No	No	No	Yes	Very easy	No	No	Yes	Yes	Maybe	Yes	Yes	No
+male	United States	No	Yes	Yes	1-5	Yes	Yes	No	No	No	No	Don't know	Don't know	Maybe	No	Yes	Yes	No	Yes	Don't know	No
+female	United States	No	Yes	Yes	500-1000	Yes	No	Yes	Yes	Yes	Don't know	Yes	Don't know	Maybe	No	Some of them	No	Maybe	Yes	Don't know	No
+male	United States	No	Yes	Yes	26-100	Yes	No	Don't know	No	No	Don't know	Yes	Somewhat easy	Maybe	No	Some of them	Some of them	No	Yes	Yes	No
+male	United States	No	Yes	No	100-500	No	Yes	Yes	No	No	Don't know	Yes	Somewhat easy	No	No	Some of them	Yes	No	Maybe	Yes	Yes
+male	United States	No	Yes	Yes	100-500	Yes	Yes	Yes	Yes	Yes	Don't know	Yes	Very easy	No	No	Some of them	Yes	No	Maybe	Yes	No
+male	United Kingdom	No	No	No	100-500	No	No	Don't know	Not sure	Don't know	Don't know	No	Very easy	Maybe	Maybe	Yes	Yes	No	No	Don't know	No
+male	United States	No	No	No	6-25	No	Yes	Don't know	No	Don't know	Don't know	Don't know	Don't know	No	No	Yes	Yes	Maybe	Maybe	Don't know	No
+male	Canada	No	No	No	6-25	No	Yes	No	No	No	No	Don't know	Somewhat difficult	Yes	No	No	No	No	Maybe	Don't know	No
+female	United Kingdom	No	No	Yes	6-25	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	Maybe	Yes	No
+male	United States	No	No	No	6-25	Yes	Yes	No	Yes	No	Yes	Don't know	Somewhat easy	No	No	Some of them	Yes	No	No	Yes	No
+male	United Kingdom	No	No	No	1-5	No	Yes	No	No	No	No	Don't know	Don't know	Yes	No	Some of them	Some of them	No	Yes	No	No
+female	United States	No	No	Yes	6-25	No	Yes	Yes	No	No	No	Yes	Don't know	Maybe	Maybe	Yes	No	No	Maybe	Don't know	No
+male	Canada	No	No	No	6-25	Yes	Yes	No	Yes	No	No	No	Very difficult	Yes	Yes	Some of them	Some of them	No	Maybe	No	No
+male	United States	No	No	Yes	100-500	Yes	Yes	Yes	Yes	No	Yes	Yes	Don't know	No	No	Yes	Yes	Maybe	No	Yes	No
+male	Canada	Yes	No	No	6-25	Yes	Yes	No	Not sure	No	No	Don't know	Somewhat easy	Maybe	No	Yes	Yes	Yes	Yes	Don't know	No
+male	United States	No	No	No	6-25	No	Yes	No	Yes	No	Don't know	Don't know	Very easy	No	No	Some of them	Yes	No	Maybe	Don't know	No
+male	United States	No	No	Yes	26-100	Yes	Yes	Yes	Yes	Don't know	No	Don't know	Very easy	No	No	Yes	Yes	Yes	Yes	Yes	No
+male	United Kingdom	Yes	Yes	Yes	1-5	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Very easy	Maybe	Maybe	Yes	Some of them	Maybe	Maybe	Don't know	Yes
+female	United States	No	Yes	Yes	26-100	No	Yes	Yes	Yes	No	No	Yes	Don't know	Maybe	No	Some of them	Some of them	No	Yes	Don't know	No
+male	United States	No	No	No	6-25	Yes	Yes	No	No	No	No	Don't know	Very easy	No	No	Yes	Yes	No	No	Don't know	No
+female	United States	No	Yes	Yes	100-500	No	No	Yes	No	Don't know	Don't know	Yes	Don't know	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Very easy	No	No	Some of them	Yes	No	No	Yes	No
+male	United Kingdom	No	No	No	26-100	No	Yes	No	Yes	No	No	Don't know	Somewhat easy	Maybe	Maybe	Yes	Some of them	No	No	Don't know	No
+male	United States	No	No	Yes	26-100	Yes	Yes	Yes	No	No	No	Don't know	Don't know	Yes	No	No	No	No	Maybe	No	No
+male	Canada	No	No	No	100-500	No	Yes	Yes	No	Yes	Yes	Yes	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	No	No	26-100	No	No	Yes	No	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	No	Don't know	No
+male	United States	No	No	Yes	100-500	No	No	Yes	Yes	Yes	Don't know	Don't know	Very easy	Maybe	No	Some of them	Some of them	No	No	Yes	No
+male	United States	No	Yes	No	100-500	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	No	No
+male	United States	No	No	Yes	6-25	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Yes	No	No	No	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	26-100	No	Yes	Yes	Yes	No	No	Yes	Somewhat difficult	Yes	No	No	Some of them	No	Maybe	Don't know	No
+male	Canada	No	No	No	100-500	No	No	Don't know	Not sure	No	No	Don't know	Don't know	No	No	Some of them	Some of them	No	Yes	No	No
+male	United Kingdom	No	Yes	Yes	6-25	No	Yes	No	No	No	No	Yes	Somewhat easy	Maybe	Maybe	Yes	Yes	Yes	Yes	Yes	No
+female	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	No	No	26-100	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Very easy	No	No	Some of them	Some of them	No	Maybe	Yes	No
+female	United States	No	No	Yes	1-5	No	Yes	No	Yes	No	No	Don't know	Don't know	No	Maybe	Some of them	No	No	No	Don't know	Yes
+female	United States	No	Yes	Yes	More than 1000	Yes	Yes	Yes	Yes	Yes	Don't know	Don't know	Somewhat easy	Maybe	No	Some of them	No	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Yes	Maybe	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	Don't know	Don't know	Yes	Don't know	Maybe	No	Some of them	Some of them	No	Maybe	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	No	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Not sure	Don't know	Don't know	Don't know	Don't know	No	Maybe	Yes	Some of them	No	Maybe	Don't know	No
+female	United States	No	No	No	500-1000	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	No	No	Maybe	No	No
+female	United States	No	Yes	Yes	26-100	No	Yes	Yes	Yes	Yes	Don't know	Don't know	Very easy	No	No	Yes	Yes	No	Yes	Yes	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	No	Don't know	Yes	Don't know	Don't know	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	No	Yes	Yes	Don't know	Don't know	Yes	No	No	No	No	Maybe	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Don't know	Don't know	No	No	Some of them	Yes	Maybe	Maybe	Don't know	No
+female	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Don't know	Don't know	No	No	Some of them	Some of them	No	No	Yes	No
+female	United States	No	No	Yes	More than 1000	No	Yes	Yes	Not sure	Don't know	Don't know	Yes	Somewhat easy	No	No	Yes	Yes	No	No	Yes	No
+male	United States	No	No	No	100-500	No	Yes	Yes	Not sure	No	Don't know	Don't know	Don't know	No	No	Some of them	Yes	No	Maybe	Don't know	No
+female	United States	No	Yes	Yes	100-500	Yes	No	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Yes	No	Some of them	Yes	No	No	Yes	No
+female	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Don't know	Yes	Don't know	Somewhat easy	No	No	Some of them	Yes	No	No	Yes	No
+male	Canada	No	Yes	Yes	6-25	No	Yes	Yes	No	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	Maybe	Maybe	Yes	No
+female	United States	No	Yes	Yes	26-100	No	Yes	Yes	Not sure	No	No	Don't know	Somewhat easy	Maybe	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	No	No	26-100	No	Yes	No	No	No	No	Don't know	Don't know	No	No	Some of them	Some of them	No	No	Don't know	Yes
+male	United States	No	No	No	26-100	Yes	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	No	No	100-500	No	Yes	Yes	Not sure	Yes	Yes	Don't know	Don't know	Maybe	No	Some of them	Yes	No	Maybe	Don't know	No
+male	Canada	No	No	Yes	6-25	Yes	No	Don't know	No	No	Don't know	Don't know	Somewhat difficult	Yes	Maybe	No	No	No	Maybe	Don't know	No
+male	United States	No	No	Yes	100-500	No	Yes	Yes	Not sure	Don't know	Yes	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	Yes	No	Yes	1-5	No	Yes	No	Yes	No	No	Don't know	Somewhat easy	Maybe	No	Some of them	Yes	No	No	Yes	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Not sure	No	Don't know	Don't know	Don't know	Yes	No	No	No	No	No	No	No
+male	United States	No	Yes	No	More than 1000	No	Yes	Don't know	No	Don't know	Don't know	Don't know	Very easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United States	No	No	No	6-25	No	No	Don't know	Not sure	No	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	No	No	100-500	No	No	Don't know	Not sure	No	Don't know	Don't know	Don't know	Maybe	No	No	No	No	Maybe	Don't know	No
+male	United States	No	No	No	More than 1000	No	No	Yes	Yes	Yes	Yes	Yes	Very easy	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+female	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Maybe	No	No	Some of them	No	No	Yes	Yes
+male	United States	No	Yes	Yes	100-500	Yes	Yes	Yes	Yes	Don't know	Yes	Yes	Somewhat easy	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	No	No	Don't know	Don't know	Don't know	Yes	No	Some of them	Some of them	No	Maybe	No	No
+male	United States	No	No	No	500-1000	No	Yes	Yes	Not sure	Don't know	Yes	Yes	Somewhat easy	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+female	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	No	Yes	Yes	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+male	United States	No	No	Yes	6-25	No	Yes	Yes	No	Don't know	No	Don't know	Don't know	Maybe	No	No	No	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	No	No	No	No	Maybe	Don't know	No
+female	United States	No	No	No	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Maybe	Maybe	No	Some of them	No	No	Don't know	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Don't know	Not sure	Don't know	Yes	Don't know	Don't know	No	No	Yes	Yes	No	No	Yes	No
+male	United States	Yes	No	No	1-5	Yes	Yes	No	Yes	No	No	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	Maybe	Don't know	No
+male	United States	No	No	No	26-100	No	Yes	Yes	Not sure	Yes	Yes	Yes	Very easy	No	No	Some of them	Some of them	No	Maybe	Yes	No
+male	Canada	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	No	Don't know	Don't know	Don't know	Yes	Maybe	Some of them	No	No	No	No	No
+male	United States	No	No	No	100-500	No	No	Don't know	No	No	No	Yes	Somewhat easy	Maybe	No	No	No	No	Yes	No	No
+male	United States	No	No	No	26-100	No	Yes	Yes	Not sure	Yes	Don't know	Don't know	Very easy	No	No	Some of them	Some of them	Maybe	Maybe	Don't know	No
+male	United Kingdom	No	No	Yes	26-100	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Yes	Maybe	No	No	No	Maybe	Don't know	No
+female	United States	Yes	No	No	More than 1000	No	Yes	Yes	Not sure	Don't know	No	Don't know	Very easy	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	Yes	Don't know	Don't know	Yes	Don't know	Yes	No	No	No	No	Maybe	Don't know	No
+male	United States	No	No	No	26-100	No	Yes	Yes	Yes	Yes	Yes	Yes	Very easy	No	No	Some of them	Yes	No	Maybe	Yes	No
+male	United States	No	No	No	26-100	No	No	Don't know	Not sure	No	Don't know	Don't know	Don't know	No	No	Yes	Yes	No	No	No	No
+female	United States	No	Yes	No	26-100	Yes	Yes	No	Yes	No	No	Don't know	Very difficult	Yes	Maybe	Some of them	Some of them	No	Maybe	No	No
+male	United States	No	No	No	More than 1000	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Very easy	Yes	No	No	No	No	Maybe	No	No
+male	United States	No	No	No	More than 1000	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	Don't know	No
+male	United Kingdom	No	No	No	1-5	Yes	Yes	Don't know	No	No	No	Don't know	Don't know	Yes	Maybe	No	No	No	Maybe	No	No
+female	United States	No	Yes	Yes	26-100	No	Yes	Yes	Yes	No	No	Yes	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	Yes	Yes	100-500	No	No	Don't know	No	No	No	Don't know	Don't know	No	No	Yes	Yes	Maybe	Yes	Don't know	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Don't know	No	Yes	Yes	Don't know	Don't know	No	No	No	Yes	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Don't know	No	Don't know	Don't know	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+nonbinary	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	Don't know	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	Yes	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Don't know	No	No	No	No	No	Yes	Yes	No
+male	United Kingdom	No	No	No	6-25	No	Yes	No	No	No	Don't know	Don't know	Very easy	No	No	Some of them	Yes	No	Maybe	Yes	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Not sure	Don't know	Yes	Don't know	Don't know	Maybe	No	Some of them	No	No	No	Don't know	No
+male	United States	No	No	Yes	500-1000	No	No	No	Yes	No	Don't know	Yes	Don't know	No	No	Some of them	No	No	No	No	No
+male	United States	No	Yes	Yes	26-100	No	Yes	Don't know	Not sure	No	No	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	Don't know	Yes	Yes	Don't know	Maybe	Maybe	No	No	No	No	Don't know	No
+male	United States	No	No	Yes	100-500	Yes	Yes	No	No	No	No	Don't know	Somewhat easy	Yes	Yes	Some of them	Some of them	No	Maybe	Don't know	No
+male	United States	Yes	No	No	1-5	Yes	Yes	No	Yes	No	No	Yes	Very easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+female	United States	No	No	No	6-25	No	Yes	No	No	No	No	Don't know	Somewhat difficult	Maybe	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	Yes	Yes	Yes	100-500	Yes	No	No	No	No	Don't know	No	Don't know	Maybe	No	Some of them	Yes	No	Yes	No	No
+male	United States	No	Yes	Yes	More than 1000	No	No	Yes	Yes	Yes	Yes	Yes	Don't know	No	No	Some of them	Yes	No	Yes	Yes	No
+male	United States	No	No	Yes	6-25	Yes	Yes	Yes	Yes	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	No	No	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Somewhat difficult	Maybe	Maybe	No	No	No	No	No	No
+male	United States	No	Yes	No	More than 1000	No	Yes	Yes	No	Yes	Yes	Yes	Very easy	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	Yes	Yes	100-500	No	Yes	No	Yes	No	No	Yes	Very easy	No	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	Yes	Yes	100-500	No	Yes	Yes	No	No	Don't know	Yes	Don't know	No	No	Yes	Yes	Maybe	Maybe	Don't know	No
+male	United Kingdom	No	No	Yes	6-25	No	No	Don't know	Not sure	No	No	No	Very easy	Yes	No	Some of them	No	No	Maybe	No	No
+female	United States	No	No	No	More than 1000	No	Yes	Yes	No	Yes	Yes	Yes	Somewhat easy	No	No	No	Some of them	No	No	Yes	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	No	Yes	Yes	Don't know	Somewhat difficult	Maybe	No	Yes	Some of them	No	Maybe	No	Yes
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Very easy	No	No	Yes	Yes	No	No	Yes	No
+female	United States	No	No	Yes	26-100	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Maybe	No	Some of them	Yes	No	Maybe	Yes	No
+female	United States	No	Yes	Yes	26-100	No	Yes	Don't know	Not sure	Don't know	No	Don't know	Somewhat easy	Yes	No	Some of them	No	No	Yes	Don't know	No
+male	United States	No	No	Yes	26-100	Yes	Yes	Yes	Yes	Don't know	Don't know	Don't know	Don't know	Maybe	No	No	Some of them	No	Maybe	Don't know	No
+female	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	No	No	Yes	Don't know	Yes	Maybe	No	No	No	No	No	No
+female	United States	No	Yes	Yes	26-100	Yes	Yes	Don't know	No	No	No	Don't know	Don't know	Maybe	No	Some of them	Yes	No	No	Yes	No
+female	United States	No	Yes	Yes	More than 1000	No	No	Yes	Yes	Yes	Yes	Yes	Very difficult	Maybe	Maybe	Some of them	Some of them	No	No	Yes	No
+female	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	No	Yes	Yes	Don't know	Maybe	No	No	No	No	No	Don't know	No
+male	Canada	No	No	Yes	500-1000	No	Yes	Yes	Not sure	No	Don't know	Don't know	Somewhat easy	No	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	No	Yes	Yes	Yes	Don't know	No	No	Some of them	Yes	No	Maybe	Yes	No
+male	United States	No	Yes	Yes	26-100	Yes	Yes	Yes	No	No	No	Don't know	Don't know	No	No	Yes	Yes	No	No	Don't know	No
+male	United States	No	No	Yes	6-25	No	Yes	Don't know	No	No	No	Don't know	Don't know	Yes	Yes	Some of them	No	No	No	No	No
+female	United States	No	Yes	Yes	More than 1000	Yes	Yes	Yes	Yes	No	Don't know	Don't know	Don't know	Maybe	Maybe	No	Yes	No	No	Don't know	No
+nonbinary	United States	Yes	Yes	Yes	1-5	Yes	Yes	Yes	Yes	No	No	Don't know	Very difficult	Yes	No	Some of them	No	No	Maybe	No	No
+female	United States	No	No	Yes	6-25	No	Yes	Don't know	Not sure	No	No	Don't know	Somewhat difficult	Yes	No	Some of them	No	No	Maybe	Don't know	No
+female	United States	No	Yes	Yes	More than 1000	No	No	Yes	No	Don't know	Don't know	Don't know	Somewhat easy	Maybe	Maybe	No	No	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Don't know	No	No	Don't know	Don't know	Somewhat easy	Yes	No	Some of them	No	No	No	Don't know	No
+male	Canada	No	Yes	Yes	26-100	Yes	Yes	Don't know	No	Don't know	Don't know	Don't know	Very easy	No	No	Yes	Yes	No	No	Yes	No
+female	United States	No	Yes	No	500-1000	No	No	No	No	No	No	No	Very difficult	Yes	Maybe	No	No	No	Maybe	No	Yes
+male	United States	No	No	No	More than 1000	No	No	Yes	Not sure	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	Don't know	No
+male	United Kingdom	No	No	No	26-100	No	Yes	Don't know	No	No	No	Don't know	Don't know	Maybe	Maybe	No	No	No	No	No	No
+male	United Kingdom	No	No	No	6-25	No	Yes	No	No	No	No	Don't know	Very difficult	Maybe	Maybe	Some of them	Yes	No	Maybe	No	Yes
+female	United States	No	No	No	100-500	No	Yes	Don't know	Not sure	No	No	Don't know	Don't know	Maybe	No	No	Some of them	No	Maybe	Don't know	No
+male	Canada	No	No	Yes	100-500	No	Yes	Don't know	Not sure	Don't know	Don't know	Yes	Somewhat easy	Maybe	No	Some of them	Some of them	No	Maybe	Yes	No
+male	United States	No	Yes	Yes	6-25	No	Yes	Yes	Yes	No	No	Don't know	Somewhat difficult	Maybe	No	Some of them	Yes	No	No	No	No
+male	United States	No	Yes	Yes	26-100	No	Yes	Yes	Yes	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	No	No
+male	United States	No	No	No	More than 1000	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	No	No	Some of them	Yes	No	Maybe	No	No
+male	United States	No	Yes	Yes	100-500	No	Yes	Yes	Yes	No	No	Don't know	Very difficult	Maybe	Maybe	Some of them	Some of them	No	Maybe	No	Yes
+male	United States	No	Yes	No	6-25	No	Yes	Yes	Yes	No	Yes	Yes	Very easy	No	No	Some of them	Yes	Maybe	Maybe	No	No
+male	United States	No	Yes	Yes	26-100	Yes	Yes	Yes	Yes	Yes	Yes	Don't know	Don't know	Yes	Maybe	Yes	Some of them	No	No	Yes	No
+male	United States	No	No	No	More than 1000	Yes	Yes	Don't know	No	Don't know	Don't know	Don't know	Don't know	Yes	No	Some of them	No	No	Maybe	Yes	No
+male	United States	No	Yes	Yes	More than 1000	Yes	Yes	Yes	Yes	No	No	Don't know	Somewhat easy	Yes	No	No	No	No	No	No	No
+female	United States	No	Yes	Yes	More than 1000	No	No	Don't know	Not sure	No	Don't know	Don't know	Very difficult	Yes	Maybe	No	No	No	Maybe	No	No
+male	United States	No	Yes	No	More than 1000	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Some of them	No	Maybe	Don't know	Yes
+female	United States	No	No	Yes	100-500	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Somewhat difficult	No	No	Some of them	Some of them	No	No	Yes	No
+male	United States	No	Yes	No	6-25	No	Yes	Don't know	No	No	Don't know	Don't know	Somewhat easy	Maybe	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	Yes	Yes	1-5	Yes	Yes	No	Yes	No	Don't know	Don't know	Don't know	Yes	Maybe	No	No	No	No	No	Yes
+male	United Kingdom	No	Yes	Yes	6-25	No	Yes	No	No	No	Don't know	Don't know	Somewhat easy	No	No	Some of them	Yes	No	No	Don't know	No
+female	United States	No	No	Yes	More than 1000	No	No	Yes	Yes	No	Don't know	Don't know	Don't know	Maybe	No	No	No	No	No	Don't know	No
+male	United States	No	No	No	6-25	No	No	Don't know	Not sure	No	Yes	Yes	Don't know	No	No	Some of them	Some of them	Maybe	Maybe	Yes	No
+male	United States	No	Yes	Yes	100-500	No	Yes	No	Yes	No	No	Don't know	Somewhat difficult	Yes	No	Some of them	Some of them	No	Maybe	No	Yes
+female	United States	No	No	No	More than 1000	No	No	Yes	Not sure	Yes	Don't know	Don't know	Don't know	Maybe	No	Some of them	No	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	No	Yes	No	No	No	Don't know	Don't know	No	No	Yes	No	No	Yes	Don't know	No
+female	United States	No	No	No	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	No	No	Some of them	Some of them	Yes	Yes	Yes	No
+male	Canada	Yes	No	No	100-500	Yes	Yes	Don't know	No	No	No	Don't know	Somewhat easy	Maybe	No	Some of them	Yes	No	No	Yes	No
+female	United States	No	Yes	Yes	6-25	No	Yes	No	No	No	No	Don't know	Very easy	Yes	No	No	Some of them	No	Yes	Yes	No
+male	United States	Yes	No	Yes	1-5	Yes	Yes	No	No	No	No	Yes	Somewhat easy	Yes	Maybe	Some of them	Some of them	Yes	Yes	Don't know	No
+male	United States	No	No	No	26-100	No	Yes	Don't know	No	No	No	Don't know	Don't know	Maybe	No	Yes	Yes	No	Maybe	Don't know	No
+female	United States	No	No	Yes	26-100	No	Yes	Don't know	Not sure	No	No	Don't know	Somewhat difficult	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	No	No	6-25	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	Yes
+female	United States	No	No	Yes	26-100	No	Yes	Yes	Yes	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	1-5	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United Kingdom	No	Yes	No	6-25	No	Yes	No	No	No	No	Don't know	Don't know	Maybe	Maybe	No	No	No	Maybe	No	No
+male	United States	No	No	No	More than 1000	Yes	Yes	Yes	No	Yes	Don't know	Don't know	Somewhat easy	Maybe	No	No	No	No	No	Don't know	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Don't know	Maybe	No	Some of them	Yes	Maybe	Yes	Yes	Yes
+female	United States	No	No	No	100-500	Yes	Yes	Yes	No	Don't know	No	Don't know	Don't know	No	No	Some of them	Yes	No	No	Yes	No
+male	Canada	No	Yes	Yes	6-25	No	Yes	Yes	Yes	No	No	Yes	Very easy	No	No	Yes	Yes	No	No	Yes	No
+male	United States	No	Yes	No	More than 1000	No	Yes	Yes	No	No	Don't know	Don't know	Don't know	Yes	No	Some of them	Some of them	No	Maybe	No	Yes
+male	United States	No	Yes	No	More than 1000	No	Yes	Yes	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	Maybe	Don't know	Yes
+female	United States	No	No	Yes	100-500	No	Yes	Yes	Yes	No	No	Don't know	Somewhat difficult	Yes	Maybe	Some of them	Some of them	No	No	No	Yes
+male	United States	No	No	Yes	26-100	No	Yes	Yes	Yes	Yes	No	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+male	Canada	No	Yes	Yes	More than 1000	No	No	Yes	Yes	Yes	Yes	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	No
+male	United States	Yes	Yes	Yes	6-25	Yes	Yes	Yes	Yes	No	No	Yes	Very easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+nonbinary	United States	No	Yes	No	More than 1000	No	Yes	Yes	Yes	Yes	Don't know	Yes	Don't know	Yes	Maybe	No	Some of them	No	Maybe	Yes	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	Yes	No	Don't know	Very difficult	Yes	No	Some of them	No	No	No	No	Yes
+male	United States	No	No	Yes	6-25	No	Yes	Don't know	Not sure	No	No	Don't know	Don't know	Yes	Yes	Some of them	No	No	No	Don't know	No
+male	United States	No	Yes	Yes	100-500	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	Yes	No	No	No	No	Yes	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Don't know	No	No	No	Yes	Somewhat easy	No	No	Yes	Yes	Maybe	Yes	Don't know	No
+male	United Kingdom	No	No	No	6-25	No	Yes	No	No	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	Yes	Yes	No
+male	United States	No	No	No	500-1000	No	Yes	Yes	No	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	No
+male	United Kingdom	No	No	No	26-100	No	Yes	Don't know	No	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+female	United States	No	No	No	500-1000	No	Yes	Yes	Not sure	Yes	Yes	Don't know	Very easy	Maybe	No	Some of them	Yes	No	No	Yes	No
+male	United States	No	No	No	6-25	Yes	Yes	No	Yes	No	No	Don't know	Somewhat easy	Yes	Maybe	Some of them	No	No	No	Don't know	No
+female	United States	No	Yes	No	26-100	No	Yes	Don't know	Not sure	No	No	Don't know	Somewhat difficult	Maybe	Maybe	Some of them	No	No	Maybe	No	No
+male	United States	No	Yes	Yes	6-25	Yes	Yes	Don't know	No	Yes	Don't know	Don't know	Somewhat easy	Yes	No	Some of them	Yes	No	Maybe	Yes	No
+male	United Kingdom	Yes	No	Yes	26-100	Yes	Yes	No	No	No	No	Yes	Somewhat easy	Maybe	Maybe	Some of them	Yes	No	Maybe	Yes	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	No	No	Don't know	Don't know	Maybe	No	Some of them	Yes	No	Maybe	No	No
+male	United Kingdom	No	No	Yes	More than 1000	No	Yes	No	No	No	No	No	Very difficult	Yes	Maybe	No	Some of them	No	Maybe	No	No
+male	United States	No	No	Yes	100-500	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Very easy	No	No	Some of them	Yes	No	No	Yes	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Maybe	No	Some of them	Yes	No	Yes	Yes	No
+male	United States	No	No	No	6-25	No	Yes	Don't know	No	No	No	Don't know	Very difficult	Yes	No	No	No	No	Maybe	No	No
+female	United Kingdom	No	No	Yes	More than 1000	No	Yes	Yes	Yes	No	Yes	Don't know	Don't know	Yes	No	Some of them	Some of them	No	Maybe	No	Yes
+male	United States	No	No	No	6-25	Yes	Yes	Don't know	No	No	No	Don't know	Very difficult	Maybe	No	Some of them	Yes	No	Maybe	Don't know	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Not sure	Yes	Yes	Don't know	Don't know	Maybe	Maybe	No	No	No	Maybe	Don't know	No
+female	United States	No	No	No	100-500	No	Yes	Don't know	Not sure	No	No	Don't know	Don't know	Maybe	No	Some of them	Yes	No	Maybe	Don't know	No
+male	United States	No	No	No	26-100	No	No	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Yes	Yes	Maybe	Yes	Yes	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Yes	Maybe	No	No	No	Yes	Don't know	No
+female	United Kingdom	No	Yes	Yes	1-5	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	Maybe	Maybe	Don't know	No
+male	United States	No	No	Yes	6-25	No	Yes	Yes	Yes	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+male	United States	No	No	No	6-25	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Maybe	No	No	No	No	Maybe	Don't know	No
+female	United States	No	Yes	Yes	26-100	No	Yes	Don't know	Not sure	No	No	Don't know	Don't know	Yes	Maybe	Some of them	No	No	Maybe	Don't know	No
+male	United States	Yes	Yes	Yes	1-5	Yes	Yes	No	Yes	No	No	Yes	Very easy	No	No	Yes	Yes	No	No	Yes	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	Not sure	Don't know	Don't know	Yes	Don't know	No	No	No	Some of them	No	No	Yes	No
+male	United States	No	No	No	100-500	No	No	Don't know	Not sure	No	No	Don't know	Don't know	No	No	Some of them	Some of them	No	No	Don't know	No
+female	United States	Yes	Yes	Yes	1-5	Yes	Yes	No	No	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Some of them	No	No	Don't know	Yes
+male	United States	No	No	No	26-100	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	No	Some of them	No	No	No	Don't know	No
+female	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Not sure	Don't know	No	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	Yes	Yes
+male	United States	No	No	Yes	More than 1000	No	No	Yes	Not sure	No	No	Don't know	Somewhat difficult	Yes	Maybe	Some of them	No	No	No	No	Yes
+female	United States	Yes	Yes	Yes	1-5	Yes	Yes	Don't know	Not sure	No	No	Yes	Somewhat difficult	Yes	No	Some of them	No	No	Maybe	No	Yes
+male	United Kingdom	No	No	Yes	More than 1000	Yes	No	No	Yes	Yes	Yes	Yes	Very easy	No	No	Yes	Yes	Maybe	Maybe	No	No
+female	United States	No	No	Yes	26-100	No	Yes	Yes	Yes	No	No	Yes	Don't know	Maybe	Maybe	No	No	No	No	No	No
+male	United Kingdom	No	No	No	26-100	No	Yes	No	Not sure	No	Don't know	Don't know	Don't know	No	No	No	Some of them	No	Maybe	Don't know	No
+female	United States	No	No	Yes	100-500	No	Yes	No	Yes	No	No	Don't know	Don't know	Yes	Maybe	No	No	No	Maybe	No	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Don't know	Don't know	Maybe	No	Some of them	No	No	No	Yes	No
+male	United States	No	No	No	100-500	No	No	Yes	No	Yes	No	Don't know	Very difficult	Maybe	No	Yes	Yes	Maybe	Yes	No	No
+male	United Kingdom	No	Yes	Yes	6-25	Yes	Yes	Yes	No	No	No	Don't know	Don't know	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Don't know	Very easy	No	No	Some of them	Yes	No	Yes	Yes	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	Not sure	Yes	Don't know	Yes	Don't know	No	No	Some of them	Yes	No	Maybe	Yes	No
+female	United States	No	No	Yes	500-1000	Yes	Yes	Yes	Yes	Yes	Yes	Don't know	Very easy	No	No	Some of them	Some of them	No	No	Don't know	No
+female	United States	No	No	No	6-25	No	Yes	No	No	No	No	No	Somewhat easy	Maybe	No	Some of them	No	No	No	Yes	No
+male	United States	No	No	No	More than 1000	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	Maybe	No	No	No	No	Maybe	Don't know	No
+male	United States	No	No	No	26-100	No	Yes	Yes	Yes	Yes	Yes	Yes	Very easy	No	No	Yes	Yes	No	No	Yes	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Not sure	Yes	Yes	Yes	Don't know	Yes	No	No	No	No	No	No	No
+male	United States	No	No	No	6-25	Yes	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	No	No	No	Don't know	No
+male	United States	No	No	Yes	500-1000	Yes	Yes	Yes	Not sure	Yes	Yes	Yes	Don't know	No	No	Some of them	Yes	No	Maybe	Yes	No
+female	United States	No	Yes	Yes	More than 1000	No	No	Yes	Yes	Yes	Yes	Yes	Very easy	Maybe	No	Yes	Yes	No	No	No	Yes
+male	United Kingdom	No	Yes	Yes	26-100	No	Yes	No	Yes	No	No	Yes	Very easy	Maybe	Maybe	Yes	Yes	No	No	No	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	Yes	Don't know	Yes	Don't know	Don't know	Maybe	No	Some of them	Yes	Maybe	Maybe	Yes	No
+female	United States	No	No	No	More than 1000	No	No	Don't know	Not sure	Don't know	Don't know	Yes	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	No	No	No	No	No	Don't know	Don't know	Maybe	Maybe	No	No	No	No	No	No
+male	United States	Yes	Yes	Yes	1-5	Yes	Yes	Don't know	Yes	Don't know	No	Yes	Somewhat difficult	Maybe	No	Some of them	Yes	No	Yes	Yes	No
+female	United States	No	Yes	Yes	500-1000	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Very easy	Maybe	Maybe	Some of them	Some of them	No	No	Yes	No
+male	United States	No	No	Yes	6-25	No	Yes	Yes	Yes	No	Yes	Yes	Very easy	No	No	No	Some of them	No	No	Yes	No
+female	Canada	Yes	Yes	Yes	100-500	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	Yes	No	No	Yes	No
+male	United Kingdom	No	No	No	6-25	No	Yes	No	No	No	No	Don't know	Don't know	No	No	Some of them	Yes	No	Yes	Don't know	No
+male	Canada	No	No	No	26-100	No	Yes	Don't know	Not sure	Don't know	No	Don't know	Don't know	Yes	Maybe	No	No	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	26-100	Yes	Yes	Yes	Yes	Yes	Yes	Don't know	Somewhat easy	Yes	No	Some of them	Yes	No	No	No	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Maybe	No	No	No	No	No	No	No
+male	United Kingdom	No	No	No	6-25	No	Yes	Don't know	No	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	No
+female	United States	No	Yes	Yes	500-1000	No	Yes	Yes	Yes	No	Don't know	Don't know	Don't know	No	No	Some of them	Some of them	No	No	No	Yes
+female	United States	No	Yes	Yes	100-500	No	No	Don't know	No	No	No	Don't know	Somewhat difficult	Maybe	No	No	No	No	Maybe	No	No
+female	United States	No	Yes	Yes	100-500	No	Yes	Yes	Yes	No	No	Yes	Somewhat easy	No	No	Yes	Yes	No	No	Yes	No
+male	United Kingdom	No	No	No	6-25	No	Yes	Don't know	No	No	No	Don't know	Don't know	No	No	Yes	Yes	Yes	Yes	Yes	No
+female	United States	No	Yes	Yes	100-500	Yes	Yes	Yes	No	No	Don't know	Don't know	Don't know	Yes	Yes	Some of them	Some of them	No	No	No	Yes
+nonbinary	United Kingdom	No	Yes	Yes	100-500	No	Yes	No	Not sure	No	No	Yes	Somewhat difficult	Yes	Yes	Some of them	Some of them	Yes	No	No	Yes
+female	United Kingdom	No	No	No	6-25	No	Yes	Don't know	Not sure	No	No	Don't know	Very easy	Maybe	No	No	Some of them	No	Yes	Yes	No
+male	United Kingdom	No	No	No	26-100	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Very easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	No	No	Yes	Don't know	Somewhat difficult	Yes	No	Some of them	Yes	No	Yes	No	No
+male	United States	No	Yes	No	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Don't know	No	No	Some of them	Yes	No	Maybe	Yes	No
+female	United States	No	Yes	No	500-1000	No	No	Don't know	Not sure	No	No	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	Maybe	Don't know	No
+female	Canada	No	No	Yes	1-5	No	Yes	No	No	No	No	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	Yes	No
+nonbinary	United Kingdom	No	No	Yes	26-100	No	Yes	No	Yes	Yes	No	Yes	Somewhat easy	Maybe	No	Some of them	Some of them	No	No	Yes	No
+female	Canada	No	No	Yes	More than 1000	No	No	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	No	No	26-100	No	Yes	Don't know	No	Don't know	Don't know	Don't know	Don't know	Yes	No	Some of them	No	No	Maybe	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	Yes	No
+male	United States	Yes	No	No	6-25	Yes	No	No	No	No	No	Don't know	Very easy	Maybe	No	Some of them	No	No	No	Yes	No
+male	United States	No	Yes	Yes	100-500	Yes	Yes	Don't know	No	No	Don't know	Don't know	Don't know	No	No	Some of them	No	No	No	Yes	No
+male	United States	No	No	Yes	26-100	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	No	No	Some of them	Some of them	No	No	Don't know	No
+male	Canada	No	No	No	26-100	No	Yes	No	No	No	No	Don't know	Somewhat difficult	No	No	Some of them	Some of them	No	No	No	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	No	No	Yes	Somewhat difficult	Maybe	No	Some of them	No	No	Maybe	No	No
+male	United States	No	No	Yes	500-1000	No	Yes	Yes	Not sure	Yes	Don't know	Yes	Don't know	Yes	Maybe	Yes	Yes	No	Maybe	Don't know	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	No	No	Yes	Don't know	Somewhat easy	No	No	Yes	Some of them	Maybe	Yes	Don't know	No
+male	United States	No	Yes	No	More than 1000	No	Yes	Yes	Not sure	Don't know	Don't know	Don't know	Somewhat easy	Maybe	No	No	Some of them	No	Yes	No	No
+male	United States	No	Yes	Yes	100-500	No	Yes	Don't know	No	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	No	No	No	Don't know	No
+male	United States	No	Yes	Yes	1-5	No	Yes	No	Yes	No	No	Don't know	Don't know	Maybe	No	Some of them	Yes	No	No	Yes	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Maybe	Maybe	Yes	Yes	Maybe	Maybe	Don't know	No
+female	United States	No	No	No	500-1000	No	Yes	Don't know	Not sure	Don't know	Yes	Don't know	Don't know	No	No	Some of them	Yes	No	No	Yes	No
+female	United States	No	Yes	Yes	26-100	No	Yes	Yes	Yes	No	No	Yes	Somewhat difficult	No	No	Yes	Yes	No	No	No	Yes
+male	United States	No	No	No	26-100	Yes	Yes	No	Yes	No	No	Don't know	Don't know	No	No	No	No	No	Maybe	No	No
+male	United States	No	Yes	No	26-100	No	Yes	Don't know	No	No	Don't know	Don't know	Somewhat easy	No	No	Yes	Yes	No	No	Yes	No
+male	United States	No	No	No	26-100	No	Yes	Don't know	No	Don't know	No	Don't know	Don't know	No	No	Yes	Yes	No	Maybe	Don't know	No
+male	United States	No	Yes	No	6-25	Yes	Yes	Don't know	Not sure	No	No	Yes	Very easy	No	No	Some of them	Yes	No	No	Yes	No
+male	Canada	Yes	No	No	26-100	Yes	Yes	Yes	Yes	No	No	Yes	Very difficult	Yes	No	Some of them	No	No	Yes	No	No
+male	United States	No	Yes	Yes	26-100	Yes	No	Yes	No	No	No	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	No	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	Yes
+male	United States	No	Yes	No	100-500	Yes	Yes	Don't know	No	No	Don't know	Don't know	Don't know	No	No	Some of them	Yes	Maybe	Maybe	Don't know	No
+male	Canada	No	No	Yes	More than 1000	No	No	Yes	Not sure	Yes	Yes	Yes	Somewhat difficult	Maybe	No	Some of them	No	No	Maybe	Don't know	Yes
+male	United States	No	No	No	6-25	No	Yes	No	Yes	No	No	Yes	Very easy	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+female	United States	No	No	No	26-100	No	No	Don't know	Not sure	No	No	Don't know	Somewhat easy	Maybe	Maybe	Yes	Yes	Maybe	Maybe	Don't know	No
+female	United States	No	No	No	26-100	No	Yes	Yes	Yes	Yes	No	Yes	Don't know	Maybe	No	Some of them	Some of them	No	Maybe	Don't know	Yes
+male	United States	No	Yes	Yes	6-25	No	Yes	No	No	No	No	Don't know	Somewhat easy	Maybe	No	Yes	Yes	No	Maybe	Don't know	No
+male	United States	No	No	Yes	6-25	No	Yes	No	Yes	No	No	Don't know	Somewhat easy	No	No	Yes	Yes	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	26-100	Yes	Yes	Yes	Yes	No	No	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	Yes	Don't know	Yes
+male	United States	No	Yes	Yes	26-100	No	Yes	Don't know	No	No	No	No	Somewhat difficult	Yes	No	Some of them	Some of them	No	Maybe	Don't know	No
+male	Canada	No	Yes	Yes	1-5	No	Yes	No	No	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	No	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Not sure	Yes	Yes	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	No	No
+male	United States	No	Yes	No	100-500	No	Yes	Yes	Yes	Yes	Yes	Don't know	Don't know	No	No	Some of them	Yes	No	Maybe	Yes	No
+male	United States	No	No	No	100-500	No	Yes	Yes	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Some of them	No	No	Yes	No
+female	United States	No	Yes	Yes	100-500	No	Yes	Yes	Not sure	No	No	Don't know	Somewhat difficult	Yes	Maybe	No	No	No	No	No	Yes
+male	United States	No	No	No	26-100	Yes	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Yes	No	No	No	No	Maybe	Don't know	No
+male	United States	No	No	No	500-1000	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Yes	Yes	No	No	Yes	No
+male	United States	No	Yes	Yes	100-500	No	Yes	No	No	No	Don't know	Don't know	Somewhat difficult	Yes	Yes	Some of them	No	No	No	No	Yes
+male	United States	No	Yes	No	100-500	No	Yes	Yes	Yes	Yes	Yes	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	Yes	Yes	No	6-25	Yes	Yes	No	No	Yes	Yes	Don't know	Very easy	No	No	Yes	Yes	No	Maybe	Yes	No
+male	United States	No	Yes	Yes	100-500	No	No	Yes	Not sure	No	No	Yes	Somewhat difficult	Yes	Yes	No	No	No	No	No	No
+female	United States	Yes	Yes	Yes	1-5	Yes	No	No	Yes	No	Yes	Yes	Somewhat difficult	No	No	Yes	Yes	No	No	Yes	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	Not sure	Don't know	Don't know	Yes	Don't know	Maybe	Maybe	No	No	No	Maybe	No	No
+male	United States	No	No	No	100-500	No	Yes	No	Yes	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	No	No
+male	United States	No	No	No	1-5	Yes	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Yes	Maybe	Some of them	Some of them	No	Maybe	Don't know	No
+male	United States	No	No	No	26-100	No	No	Don't know	Not sure	No	No	Don't know	Don't know	Maybe	Yes	Some of them	No	No	Maybe	No	No
+male	United States	No	No	No	26-100	No	Yes	Don't know	No	No	No	Don't know	Don't know	No	No	Yes	Yes	No	Maybe	Yes	No
+male	United States	No	No	Yes	6-25	No	Yes	No	Yes	No	No	Yes	Somewhat easy	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+male	United States	Yes	No	No	6-25	Yes	No	No	Yes	No	No	Don't know	Very easy	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+male	United States	No	No	No	More than 1000	No	No	Don't know	No	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	No	No	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	No	No	No	Don't know	Very easy	Yes	Maybe	Some of them	No	No	No	Don't know	No
+male	United States	Yes	No	Yes	6-25	Yes	Yes	No	Not sure	No	Yes	Don't know	Somewhat difficult	No	No	Yes	Yes	No	Maybe	Yes	No
+male	United States	No	No	No	26-100	No	Yes	Yes	No	Yes	Don't know	Don't know	Don't know	No	No	Some of them	Some of them	Maybe	Maybe	Yes	No
+male	United States	No	Yes	Yes	100-500	Yes	No	Yes	Yes	No	No	Yes	Very difficult	Yes	No	Some of them	No	No	Maybe	No	No
+male	United Kingdom	No	Yes	Yes	100-500	No	Yes	Yes	Yes	No	No	Yes	Very easy	No	No	Some of them	Yes	Maybe	Yes	Yes	No
+female	United States	No	No	Yes	26-100	Yes	Yes	Yes	Yes	No	No	Don't know	Very easy	Maybe	No	Some of them	Some of them	No	Yes	Don't know	No
+female	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Yes	Maybe	No	No	No	No	Don't know	No
+female	United States	No	Yes	Yes	100-500	No	Yes	Don't know	No	No	No	Don't know	Don't know	No	No	Some of them	Some of them	No	No	Don't know	No
+female	United States	No	Yes	Yes	500-1000	No	Yes	Yes	Yes	Yes	Yes	Don't know	Somewhat difficult	Maybe	No	No	Some of them	No	No	No	No
+male	Canada	No	Yes	Yes	100-500	No	No	Yes	Yes	No	No	Don't know	Somewhat difficult	Yes	Maybe	Some of them	Some of them	No	Maybe	No	No
+male	United States	Yes	Yes	Yes	6-25	No	Yes	No	Yes	No	No	Yes	Somewhat easy	No	No	Some of them	Some of them	No	No	No	No
+male	Canada	No	No	No	26-100	Yes	Yes	No	Yes	No	No	Yes	Very difficult	Yes	Maybe	Some of them	No	No	Maybe	No	Yes
+male	United States	No	Yes	Yes	26-100	Yes	Yes	Yes	Not sure	No	Don't know	Don't know	Don't know	Yes	No	Some of them	Some of them	No	No	Don't know	Yes
+female	United Kingdom	No	No	Yes	100-500	No	Yes	No	No	No	No	Don't know	Don't know	Maybe	No	No	Some of them	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	6-25	No	Yes	Yes	Yes	No	No	Don't know	Don't know	Yes	Maybe	Some of them	Some of them	No	No	Don't know	No
+female	United States	No	No	Yes	100-500	Yes	Yes	Yes	Yes	No	Don't know	Don't know	Somewhat easy	Maybe	No	Some of them	Yes	No	No	Yes	No
+male	United Kingdom	No	No	Yes	26-100	No	Yes	No	No	No	No	Yes	Somewhat easy	No	No	Some of them	Yes	No	Maybe	Yes	No
+male	United States	Yes	No	No	1-5	Yes	Yes	Yes	Not sure	No	No	Yes	Very easy	No	No	Some of them	Yes	No	No	Yes	No
+male	United States	No	No	No	26-100	No	Yes	Yes	Yes	No	Yes	Yes	Somewhat difficult	Yes	Maybe	No	No	No	Maybe	Don't know	Yes
+male	United States	No	No	No	More than 1000	Yes	No	Don't know	No	Yes	Yes	Don't know	Don't know	No	No	Some of them	Some of them	No	Maybe	Don't know	No
+male	United Kingdom	No	Yes	Yes	100-500	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	Maybe	No	No	No	No	No	No
+male	United Kingdom	Yes	Yes	Yes	1-5	Yes	Yes	Don't know	Not sure	No	No	Don't know	Very easy	No	No	Some of them	Yes	Yes	Yes	Don't know	Yes
+male	United States	No	No	Yes	500-1000	No	No	Yes	Not sure	Yes	Yes	Don't know	Very easy	Maybe	No	No	No	No	No	Yes	No
+male	United Kingdom	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	No	Don't know	Yes	Don't know	Maybe	No	Some of them	Yes	No	Yes	Yes	No
+male	United Kingdom	No	No	No	1-5	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	No	No	Some of them	Yes	Maybe	Maybe	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	Yes	No	6-25	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	Maybe	No	No	No	No	Maybe	Don't know	No
+male	Canada	No	No	No	100-500	Yes	Yes	Yes	Not sure	Don't know	Yes	Don't know	Somewhat easy	No	No	Some of them	Some of them	No	No	Yes	No
+male	Canada	No	Yes	No	26-100	No	Yes	Don't know	No	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	No	No
+male	United States	No	No	Yes	26-100	Yes	No	Don't know	Not sure	No	Don't know	Don't know	Don't know	No	No	Some of them	Yes	No	Maybe	Don't know	No
+female	United States	No	Yes	Yes	6-25	No	Yes	Don't know	No	No	No	Don't know	Don't know	Yes	No	No	No	No	No	Don't know	No
+male	United States	No	No	Yes	1-5	Yes	Yes	Yes	Not sure	No	Yes	Don't know	Very easy	No	No	Yes	Yes	No	Maybe	Yes	No
+male	United States	No	No	Yes	More than 1000	No	No	Yes	Yes	Yes	Yes	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+female	United States	No	Yes	Yes	26-100	No	No	Don't know	Not sure	No	No	Don't know	Somewhat difficult	Maybe	Maybe	No	No	No	Maybe	No	No
+female	Canada	No	No	Yes	More than 1000	Yes	No	Yes	Yes	Yes	Don't know	Yes	Somewhat easy	No	No	No	Yes	No	Maybe	Don't know	No
+female	United Kingdom	No	No	No	6-25	No	Yes	No	No	No	No	Don't know	Don't know	Yes	Maybe	Some of them	No	No	No	Don't know	No
+female	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	No	No	Some of them	Yes	No	No	Yes	No
+male	United States	No	Yes	Yes	100-500	No	Yes	Yes	Not sure	Yes	Yes	Yes	Somewhat easy	Maybe	Maybe	Some of them	Yes	No	No	Yes	No
+male	United States	No	No	No	26-100	Yes	Yes	Don't know	No	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	No	Don't know	No
+female	United Kingdom	No	No	Yes	6-25	Yes	Yes	Don't know	Not sure	Yes	Don't know	Yes	Very easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	Canada	No	No	Yes	6-25	No	Yes	Yes	No	No	No	Don't know	Somewhat easy	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	No
+female	Canada	No	No	No	More than 1000	No	Yes	Yes	Not sure	Don't know	Don't know	Don't know	Somewhat easy	No	No	Some of them	Yes	No	No	Don't know	No
+male	United Kingdom	No	No	No	6-25	No	Yes	No	No	No	No	Don't know	Don't know	Yes	No	No	No	No	Yes	No	No
+male	United Kingdom	No	No	Yes	26-100	No	No	Yes	Yes	No	No	Yes	Very easy	No	No	No	Yes	No	No	Yes	No
+female	United States	No	No	No	More than 1000	Yes	No	No	Yes	No	No	Don't know	Very difficult	Yes	Maybe	No	No	No	Maybe	No	No
+male	United States	No	No	No	6-25	No	Yes	No	No	No	Don't know	Don't know	Somewhat difficult	Maybe	Maybe	Some of them	No	No	No	Don't know	No
+male	United States	No	No	No	100-500	No	No	Yes	No	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	Yes	No	No	Don't know	No
+male	United States	Yes	Yes	Yes	1-5	Yes	Yes	No	Yes	Yes	Yes	No	Very difficult	No	No	Yes	Yes	No	No	Yes	Yes
+male	United States	No	Yes	Yes	100-500	No	Yes	Yes	Yes	Don't know	Don't know	Yes	Don't know	Maybe	No	Yes	Yes	No	No	Don't know	No
+male	United States	No	No	Yes	26-100	No	No	Yes	Yes	Yes	No	Yes	Somewhat easy	No	No	Some of them	Yes	No	Maybe	Yes	No
+male	United States	No	Yes	Yes	26-100	No	No	Yes	Not sure	No	Yes	Don't know	Somewhat easy	Yes	No	No	No	No	No	No	No
+male	United Kingdom	No	No	Yes	100-500	No	Yes	Don't know	No	No	No	Don't know	Don't know	Maybe	No	Yes	Yes	No	Maybe	No	Yes
+male	United States	No	No	No	26-100	No	Yes	Don't know	Not sure	No	No	Don't know	Don't know	Yes	Yes	Some of them	No	No	No	No	No
+male	United States	Yes	No	Yes	1-5	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Very easy	No	No	Yes	Yes	Yes	Yes	Don't know	No
+female	United States	No	No	No	26-100	Yes	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	Yes	No	Some of them	No	No	No	Don't know	No
+male	United States	No	No	Yes	26-100	No	Yes	Yes	Yes	No	No	Yes	Very easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United Kingdom	No	No	No	6-25	No	Yes	No	No	No	No	Don't know	Somewhat easy	Maybe	Maybe	Some of them	Yes	No	Maybe	Don't know	No
+male	United States	No	Yes	No	100-500	No	Yes	Don't know	No	No	Don't know	Don't know	Very easy	No	No	Some of them	Yes	No	Maybe	Don't know	No
+male	United States	No	No	No	6-25	No	Yes	Yes	Yes	No	Yes	Yes	Don't know	Maybe	No	Some of them	Some of them	No	No	No	No
+male	United States	Yes	Yes	Yes	1-5	Yes	Yes	Yes	Yes	Don't know	Don't know	Don't know	Very difficult	Yes	Maybe	Some of them	No	No	No	No	No
+male	United Kingdom	No	No	Yes	26-100	No	No	No	No	No	No	Don't know	Somewhat difficult	Yes	No	No	No	No	Maybe	Don't know	No
+male	United States	Yes	No	No	6-25	Yes	Yes	Yes	Yes	Yes	No	Yes	Somewhat easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United States	No	No	No	26-100	No	Yes	Yes	Not sure	No	Don't know	Don't know	Don't know	No	No	Yes	Yes	No	No	Don't know	No
+male	United Kingdom	No	No	No	6-25	No	Yes	Don't know	No	No	No	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	Maybe	Don't know	No
+male	Canada	No	Yes	Yes	More than 1000	No	No	Don't know	No	No	No	No	Very difficult	Yes	No	Some of them	No	No	Yes	No	Yes
+male	Canada	No	No	No	1-5	Yes	Yes	No	Yes	No	No	Don't know	Somewhat difficult	Maybe	Maybe	Yes	Yes	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	6-25	Yes	Yes	Don't know	No	Yes	Don't know	Don't know	Don't know	Yes	No	Some of them	Yes	No	No	No	No
+male	United States	No	Yes	Yes	1-5	No	No	No	Yes	No	No	Don't know	Don't know	No	No	Some of them	Yes	Maybe	Maybe	Don't know	No
+male	United States	No	No	No	More than 1000	No	No	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Yes	Yes	No	No	No	No
+male	United Kingdom	No	No	Yes	6-25	No	Yes	No	No	No	No	Don't know	Don't know	Yes	No	Yes	Yes	Maybe	Yes	No	No
+male	United States	No	No	No	6-25	Yes	Yes	Don't know	Not sure	No	No	Don't know	Very easy	No	No	Yes	Yes	No	No	Don't know	No
+male	United States	No	No	No	26-100	No	No	Yes	Yes	Yes	Yes	Yes	Don't know	No	No	Yes	Yes	No	No	Don't know	No
+male	United States	No	No	No	100-500	No	Yes	Don't know	Not sure	No	No	Don't know	Somewhat easy	No	No	Yes	Yes	No	No	Yes	No
+male	United Kingdom	Yes	No	No	100-500	No	No	No	Not sure	No	No	Don't know	Very easy	No	No	Yes	Some of them	No	Yes	No	No
+male	United States	No	No	No	More than 1000	No	No	Yes	Yes	Don't know	Yes	Yes	Don't know	No	No	Some of them	Yes	No	Maybe	Don't know	No
+male	United Kingdom	No	No	Yes	26-100	No	Yes	Don't know	Not sure	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+male	United Kingdom	No	No	No	6-25	No	Yes	No	No	No	Yes	Yes	Don't know	Maybe	No	Yes	Some of them	No	Yes	Yes	No
+male	United States	No	Yes	Yes	More than 1000	Yes	No	Don't know	No	Don't know	Don't know	Don't know	Don't know	Yes	Maybe	No	No	No	Maybe	Don't know	No
+male	United Kingdom	No	No	Yes	100-500	No	Yes	No	No	No	No	Don't know	Very easy	No	No	No	Some of them	No	Yes	Yes	No
+male	United States	No	Yes	Yes	26-100	No	Yes	Yes	Yes	No	Don't know	Don't know	Somewhat easy	Maybe	No	Some of them	Yes	Maybe	Yes	Don't know	No
+male	United States	No	No	Yes	100-500	Yes	Yes	Yes	Yes	No	No	Don't know	Very difficult	Maybe	Maybe	Some of them	Some of them	Maybe	Maybe	Don't know	No
+male	United States	Yes	No	Yes	26-100	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Some of them	No	Yes	Don't know	No
+male	Canada	No	No	No	6-25	No	Yes	Yes	Not sure	No	Don't know	Yes	Very easy	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+male	United States	No	Yes	Yes	6-25	No	Yes	Yes	Yes	Yes	Yes	Yes	Very easy	No	No	Some of them	Yes	No	No	Yes	No
+male	Canada	No	No	Yes	26-100	No	Yes	Don't know	Not sure	No	No	Don't know	Somewhat difficult	No	No	Some of them	Yes	No	Yes	Don't know	No
+male	United States	No	Yes	Yes	100-500	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Very easy	No	No	Some of them	Yes	No	No	Yes	No
+female	United States	No	Yes	Yes	26-100	Yes	No	Don't know	No	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	Yes	No	Maybe	Don't know	No
+female	United States	No	Yes	Yes	26-100	No	No	Yes	Not sure	No	Don't know	Don't know	Don't know	Maybe	No	No	No	No	No	Don't know	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	No	Yes	Don't know	Don't know	Somewhat difficult	Yes	Maybe	No	No	No	Maybe	No	No
+male	United States	No	No	Yes	More than 1000	No	No	No	Yes	No	No	No	Don't know	Yes	No	Some of them	Some of them	No	Yes	No	Yes
+male	Canada	Yes	Yes	No	1-5	Yes	Yes	No	Yes	No	No	Yes	Somewhat easy	No	No	No	No	No	No	Yes	No
+female	United States	No	Yes	Yes	26-100	No	No	Yes	Yes	Yes	Yes	Don't know	Don't know	Maybe	Maybe	Yes	Some of them	No	Maybe	Yes	No
+female	United States	No	No	Yes	100-500	No	Yes	Don't know	Not sure	Yes	Don't know	Don't know	Somewhat easy	Yes	No	Some of them	No	No	Maybe	No	No
+female	United States	Yes	Yes	Yes	1-5	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Maybe	Yes	Some of them	No	No	No	No	No
+male	United Kingdom	No	No	No	26-100	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Somewhat easy	No	No	Some of them	No	Yes	Yes	Don't know	No
+female	United States	No	No	Yes	6-25	Yes	Yes	Yes	No	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	No	No
+male	United Kingdom	No	No	No	26-100	No	Yes	Don't know	Not sure	No	No	Don't know	Somewhat easy	No	No	Some of them	Yes	Maybe	Yes	Don't know	No
+male	United Kingdom	No	No	Yes	500-1000	No	No	Don't know	No	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	No
+male	United States	Yes	Yes	Yes	1-5	Yes	Yes	No	Yes	No	No	Yes	Very easy	Maybe	Maybe	Yes	Yes	No	No	Yes	No
+male	United Kingdom	No	No	No	More than 1000	No	No	Don't know	Not sure	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	Yes	Don't know	No
+male	United Kingdom	No	No	No	More than 1000	No	No	Don't know	Not sure	No	Don't know	Don't know	Don't know	No	No	Some of them	Some of them	Yes	Yes	No	No
+male	United Kingdom	No	Yes	Yes	6-25	No	Yes	No	No	No	No	Yes	Somewhat easy	Yes	No	Some of them	Yes	No	Maybe	No	Yes
+male	Canada	No	No	Yes	100-500	No	No	Yes	Yes	Yes	Yes	Yes	Very easy	Yes	No	Some of them	Yes	No	Maybe	No	Yes
+male	United States	No	No	No	6-25	Yes	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Maybe	No	No	No	No	Maybe	No	No
+nonbinary	United Kingdom	No	No	Yes	More than 1000	No	No	Don't know	No	Yes	Yes	Don't know	Don't know	No	No	Yes	Some of them	Yes	Yes	Yes	Yes
+female	United States	No	No	No	More than 1000	No	Yes	Don't know	Not sure	No	Yes	Don't know	Don't know	Maybe	No	Some of them	Yes	No	No	Don't know	No
+female	United Kingdom	No	No	No	6-25	No	Yes	Don't know	No	No	No	Don't know	Don't know	No	No	Yes	Yes	Maybe	Maybe	Don't know	No
+male	United Kingdom	No	No	Yes	26-100	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	No	No	Yes	Yes	Yes	Yes	Don't know	No
+male	United States	No	No	Yes	6-25	Yes	Yes	No	Yes	No	No	Yes	Somewhat difficult	No	No	Yes	Yes	Yes	Yes	Don't know	No
+male	United Kingdom	No	Yes	Yes	More than 1000	No	Yes	Don't know	Not sure	Don't know	Don't know	Yes	Very easy	No	No	Some of them	Yes	No	Maybe	Yes	No
+male	United States	Yes	No	No	1-5	No	Yes	Don't know	No	No	No	Don't know	Don't know	No	No	Yes	Yes	No	Maybe	Don't know	No
+male	United States	No	No	No	6-25	No	Yes	Don't know	No	No	No	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	Yes	Yes	More than 1000	No	No	Yes	Yes	Yes	Yes	Yes	Don't know	Maybe	No	Some of them	Some of them	No	No	No	Yes
+male	United Kingdom	Yes	Yes	No	1-5	No	Yes	No	Yes	No	No	Yes	Somewhat easy	No	No	No	Yes	No	Maybe	No	No
+male	United States	No	Yes	Yes	26-100	No	Yes	Yes	Yes	Don't know	Don't know	Yes	Don't know	Maybe	No	Some of them	Some of them	No	Maybe	Don't know	No
+male	United Kingdom	No	No	No	100-500	No	Yes	Don't know	Not sure	No	No	Don't know	Somewhat easy	No	No	Some of them	Yes	No	Maybe	Don't know	Yes
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Don't know	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	No
+female	United States	No	No	Yes	6-25	Yes	Yes	Don't know	Not sure	No	No	Yes	Somewhat difficult	Yes	No	Some of them	Some of them	No	Yes	No	Yes
+female	United States	No	No	Yes	100-500	No	No	Yes	No	No	No	Yes	Very difficult	Yes	Maybe	No	Some of them	No	Yes	No	Yes
+female	United States	No	Yes	Yes	More than 1000	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Very difficult	Yes	Maybe	Some of them	Some of them	No	Maybe	No	Yes
+male	United States	No	No	No	26-100	No	Yes	Yes	Yes	No	No	Don't know	Somewhat easy	Maybe	No	Some of them	Yes	No	Maybe	No	Yes
+female	United States	No	Yes	Yes	100-500	No	Yes	Yes	No	No	Don't know	Don't know	Don't know	Yes	No	Some of them	Yes	No	No	Don't know	No
+female	United States	No	No	Yes	100-500	Yes	Yes	Don't know	No	Don't know	Don't know	Don't know	Very easy	Maybe	No	Some of them	No	No	Maybe	Yes	No
+male	United States	No	No	No	100-500	No	No	Yes	Yes	Yes	No	Yes	Very easy	Yes	Maybe	Yes	Yes	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	6-25	No	Yes	No	Yes	No	No	Don't know	Very easy	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+male	United States	No	No	No	26-100	Yes	Yes	Yes	No	No	No	Don't know	Don't know	Yes	Maybe	No	No	No	No	Don't know	No
+female	United States	No	No	No	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Very easy	No	No	Some of them	No	No	No	Yes	No
+male	United Kingdom	No	No	No	26-100	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Somewhat easy	Maybe	Maybe	Some of them	Some of them	Maybe	Maybe	Don't know	No
+female	United States	No	No	Yes	26-100	No	Yes	No	Yes	No	No	Don't know	Somewhat difficult	Yes	Maybe	Some of them	Some of them	No	No	No	Yes
+female	United States	No	Yes	Yes	100-500	No	No	Yes	Yes	Yes	Yes	Yes	Don't know	Maybe	No	Some of them	Yes	No	No	Don't know	Yes
+female	United States	No	Yes	No	6-25	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	No	No	No	Some of them	No	Maybe	Yes	No
+male	United States	No	No	No	26-100	Yes	Yes	Don't know	Not sure	No	Don't know	Don't know	Very easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United States	No	Yes	No	More than 1000	No	Yes	Yes	Yes	No	Yes	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	Maybe	No	No
+male	United Kingdom	No	No	No	6-25	No	Yes	Don't know	No	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+male	United Kingdom	No	No	Yes	100-500	No	Yes	No	No	No	No	Don't know	Somewhat difficult	No	No	Some of them	Some of them	No	Maybe	No	No
+male	United States	No	No	Yes	1-5	No	No	No	No	No	No	Yes	Very difficult	Yes	No	Some of them	Some of them	No	Yes	No	Yes
+male	United States	No	No	Yes	6-25	Yes	Yes	No	Yes	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	No
+female	United Kingdom	Yes	No	No	1-5	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	No	Some of them	No	No	No	Don't know	No
+female	United States	No	No	No	26-100	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	Yes	No	No	No	No	Yes	Don't know	No
+male	United States	No	Yes	Yes	500-1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Very difficult	Maybe	No	Some of them	Yes	No	No	Don't know	No
+male	United States	Yes	Yes	Yes	1-5	Yes	Yes	No	Yes	No	No	No	Very easy	Yes	Yes	Some of them	No	No	No	Yes	No
+female	United States	No	Yes	Yes	100-500	No	No	Yes	Not sure	Yes	Don't know	Don't know	Don't know	Yes	Maybe	Some of them	No	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	Yes	Yes	No	Yes	No	No	No	Very difficult	Yes	Yes	No	No	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Yes	No	Maybe	Yes	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	No	Yes	Yes	Don't know	Don't know	No	No	Some of them	Yes	No	Maybe	Don't know	No
+female	United States	No	Yes	No	26-100	No	Yes	Don't know	No	No	No	No	Very difficult	Yes	Yes	No	Some of them	No	No	No	Yes
+male	United States	No	No	No	26-100	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+male	United States	Yes	No	No	1-5	Yes	Yes	Don't know	Not sure	No	No	Don't know	Somewhat easy	Yes	Maybe	Some of them	No	No	No	Don't know	No
+female	United Kingdom	No	No	Yes	6-25	No	Yes	Don't know	No	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	1-5	No	No	No	Yes	No	No	Yes	Don't know	No	No	Some of them	Yes	No	No	Yes	No
+male	United States	No	Yes	No	More than 1000	Yes	No	Yes	Yes	No	Yes	Yes	Very easy	Maybe	No	Some of them	No	No	No	Yes	No
+male	United States	No	No	No	100-500	No	Yes	Yes	Not sure	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	Maybe	Don't know	No
+female	United States	No	Yes	Yes	100-500	No	Yes	Yes	Not sure	Don't know	No	Don't know	Don't know	No	No	Yes	Yes	No	Maybe	Don't know	No
+male	United States	No	No	Yes	1-5	No	Yes	No	No	No	No	Don't know	Don't know	Yes	No	No	No	No	Yes	Don't know	No
+male	United Kingdom	No	Yes	Yes	500-1000	No	No	Don't know	No	No	No	Don't know	Somewhat difficult	Maybe	No	Some of them	Yes	No	Maybe	No	Yes
+female	United States	No	Yes	Yes	6-25	No	Yes	Yes	Yes	No	No	Yes	Very easy	No	No	Some of them	Yes	No	Yes	No	Yes
+female	United States	No	No	No	100-500	Yes	Yes	Don't know	No	No	Don't know	Don't know	Very difficult	Yes	Yes	No	No	No	No	No	No
+male	United Kingdom	No	Yes	No	More than 1000	No	No	Don't know	No	No	No	Don't know	Very easy	Maybe	No	Some of them	Yes	No	Maybe	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat difficult	No	No	Some of them	Yes	No	No	No	No
+male	United States	No	No	Yes	More than 1000	No	No	Don't know	No	No	Don't know	Don't know	Very difficult	Maybe	No	Some of them	Yes	No	No	Don't know	No
+male	United Kingdom	Yes	No	No	6-25	Yes	Yes	No	No	No	No	Don't know	Somewhat difficult	No	No	Yes	Yes	No	Maybe	Don't know	Yes
+female	United States	No	Yes	Yes	100-500	No	Yes	Yes	Yes	No	No	Don't know	Somewhat difficult	No	No	Yes	Yes	Maybe	Maybe	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Don't know	Not sure	Yes	Don't know	Don't know	Don't know	Maybe	No	Some of them	No	No	No	Don't know	No
+male	United States	No	Yes	No	26-100	No	No	Yes	No	No	No	Yes	Somewhat difficult	No	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	No	Yes	100-500	No	Yes	Don't know	No	Yes	Don't know	Yes	Don't know	Maybe	No	Some of them	No	No	No	Don't know	No
+male	United States	Yes	Yes	Yes	1-5	Yes	Yes	No	Yes	No	No	Yes	Very easy	No	No	Yes	Yes	No	No	Yes	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Don't know	No	No	Some of them	Some of them	No	Maybe	Don't know	No
+male	United States	No	No	Yes	1-5	Yes	Yes	No	Yes	No	No	Don't know	Somewhat easy	Maybe	No	No	No	No	Maybe	Don't know	No
+male	United States	No	Yes	No	26-100	Yes	Yes	Yes	Yes	No	Don't know	Yes	Don't know	Maybe	No	No	Some of them	No	No	Don't know	No
+male	United Kingdom	No	Yes	No	6-25	No	No	No	No	No	No	Yes	Somewhat easy	Maybe	No	Some of them	Some of them	No	Maybe	Don't know	No
+male	Canada	No	No	No	6-25	Yes	Yes	No	No	No	No	Don't know	Very difficult	Yes	Maybe	Some of them	Some of them	No	Maybe	Don't know	No
+male	United States	No	Yes	No	6-25	No	Yes	Don't know	Not sure	No	No	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	Yes	No	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Very easy	No	No	Some of them	Yes	Maybe	Yes	Yes	No
+male	United States	No	No	No	More than 1000	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Very easy	No	No	Yes	Yes	No	No	Yes	No
+male	United States	No	No	No	6-25	No	Yes	Don't know	Not sure	Don't know	No	Yes	Somewhat easy	No	No	Some of them	Yes	No	Maybe	Don't know	No
+male	United States	No	No	No	100-500	No	Yes	No	No	No	No	Don't know	Don't know	Maybe	No	Some of them	Yes	No	No	No	No
+male	United Kingdom	No	Yes	Yes	6-25	No	No	No	No	No	No	No	Don't know	Yes	Maybe	Some of them	No	No	No	No	No
+male	United Kingdom	No	Yes	Yes	6-25	No	No	No	No	No	No	No	Don't know	Yes	Maybe	Some of them	No	No	No	No	No
+male	United Kingdom	Yes	No	Yes	1-5	Yes	Yes	No	Not sure	Don't know	Don't know	Don't know	Somewhat difficult	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United States	No	No	No	100-500	No	No	Don't know	No	Don't know	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	Maybe	Maybe	Don't know	No
+male	United States	No	Yes	Yes	6-25	Yes	Yes	No	Yes	No	No	Don't know	Very difficult	Yes	No	Some of them	Yes	No	Maybe	No	No
+male	United States	No	No	Yes	More than 1000	No	No	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Yes	Maybe	No	No	No	Maybe	Yes	No
+male	United Kingdom	No	No	No	6-25	Yes	Yes	No	No	No	No	No	Somewhat difficult	Yes	Maybe	No	No	No	Yes	No	Yes
+male	United States	No	Yes	Yes	6-25	No	Yes	Yes	Yes	No	No	Don't know	Somewhat easy	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	No	No	1-5	Yes	Yes	No	Yes	No	No	Don't know	Very difficult	Maybe	Maybe	Some of them	Yes	Maybe	Maybe	No	No
+male	United States	No	No	Yes	More than 1000	Yes	Yes	Yes	Yes	Don't know	Yes	Yes	Somewhat easy	No	No	Yes	Yes	Yes	Yes	Yes	No
+female	United Kingdom	No	Yes	Yes	100-500	No	Yes	Don't know	No	No	No	Don't know	Somewhat difficult	Maybe	No	Some of them	Some of them	No	Yes	Don't know	Yes
+male	United Kingdom	No	No	No	26-100	No	No	Yes	Yes	Yes	Yes	Yes	Don't know	Maybe	Maybe	Some of them	Some of them	No	Yes	No	Yes
+male	United States	No	No	No	More than 1000	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	Yes	No	500-1000	No	No	Yes	Yes	No	No	Yes	Very easy	Maybe	No	No	No	No	No	No	No
+male	United States	Yes	Yes	Yes	6-25	Yes	Yes	Don't know	Not sure	No	Don't know	Don't know	Very difficult	Yes	No	No	No	No	Maybe	Don't know	No
+male	United States	No	No	No	26-100	No	Yes	Yes	No	Yes	No	Yes	Somewhat easy	Maybe	No	Some of them	Some of them	No	Maybe	No	No
+male	United States	No	No	No	More than 1000	No	No	Don't know	Not sure	No	Don't know	Don't know	Don't know	Maybe	No	No	Some of them	No	Maybe	Don't know	No
+female	United Kingdom	No	Yes	No	More than 1000	No	No	No	No	No	Yes	Don't know	Somewhat easy	Yes	Maybe	No	No	No	Maybe	Don't know	No
+male	United States	No	No	Yes	26-100	No	Yes	Yes	Yes	No	Don't know	Yes	Very easy	Maybe	No	No	No	No	No	Don't know	No
+male	United States	No	Yes	Yes	26-100	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	Yes	No
+male	United States	No	No	No	26-100	Yes	Yes	Yes	Yes	Don't know	Don't know	Yes	Very easy	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+male	United States	No	No	No	500-1000	Yes	Yes	Yes	No	Yes	Don't know	Don't know	Don't know	Maybe	No	Some of them	Yes	No	No	Yes	Yes
+male	United States	Yes	No	No	1-5	No	Yes	Yes	No	No	Don't know	Don't know	Somewhat difficult	No	No	Some of them	Yes	Yes	Yes	Yes	No
+male	United States	No	Yes	Yes	26-100	Yes	Yes	Yes	Yes	No	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	No	No	Maybe	No	No
+male	United States	No	Yes	No	500-1000	Yes	No	Don't know	No	No	No	Don't know	Don't know	Maybe	No	No	No	No	No	Don't know	No
+male	United Kingdom	No	No	Yes	6-25	No	Yes	Don't know	Not sure	No	No	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+male	United Kingdom	No	Yes	No	500-1000	No	No	Yes	Yes	Yes	Yes	Don't know	Somewhat easy	No	No	Some of them	Yes	No	Maybe	No	No
+male	United States	No	Yes	No	More than 1000	No	Yes	Yes	No	Yes	Yes	Don't know	Don't know	Maybe	Maybe	Some of them	Yes	Maybe	Maybe	Don't know	Yes
+male	United States	Yes	Yes	No	6-25	Yes	No	Yes	Not sure	Don't know	Yes	Don't know	Don't know	Maybe	Maybe	Some of them	No	No	Maybe	Don't know	No
+male	United States	Yes	Yes	Yes	1-5	Yes	Yes	No	Yes	No	No	Don't know	Very difficult	Yes	No	Some of them	No	No	Maybe	Don't know	No
+male	United States	No	Yes	No	100-500	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	Yes	No	100-500	No	Yes	Yes	No	Don't know	Yes	Don't know	Very difficult	Yes	Yes	Some of them	No	Maybe	Maybe	No	No
+male	United States	No	Yes	Yes	500-1000	Yes	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	Yes	Don't know	No
+male	United States	No	No	No	100-500	No	No	Don't know	Not sure	No	Don't know	Don't know	Somewhat difficult	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	No	No	Some of them	Yes	No	No	Yes	No
+male	United States	Yes	No	No	1-5	Yes	Yes	No	Yes	No	No	Yes	Somewhat easy	No	No	Some of them	Yes	No	Maybe	Yes	No
+male	United States	No	No	No	26-100	Yes	Yes	Don't know	No	No	Don't know	Don't know	Somewhat easy	No	No	Some of them	Yes	No	Maybe	No	No
+male	United States	No	Yes	Yes	26-100	No	No	No	No	No	No	Don't know	Don't know	Yes	Maybe	No	No	No	Maybe	No	No
+male	United Kingdom	No	Yes	Yes	26-100	No	Yes	No	No	No	No	Don't know	Very difficult	Yes	Yes	Some of them	No	No	No	No	Yes
+female	United States	Yes	No	Yes	1-5	No	Yes	Yes	Yes	Yes	Yes	Yes	Very easy	Maybe	Maybe	Some of them	Some of them	No	No	Yes	Yes
+male	United Kingdom	Yes	No	No	1-5	Yes	Yes	No	Yes	No	No	Yes	Very easy	No	No	No	No	No	Maybe	Yes	No
+male	United States	Yes	No	No	1-5	No	Yes	No	Yes	No	No	Yes	Somewhat difficult	No	No	Some of them	Some of them	Maybe	Maybe	Don't know	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	No	Yes	Yes	Somewhat difficult	Yes	Maybe	No	No	No	Maybe	No	Yes
+male	United States	No	No	No	More than 1000	Yes	Yes	Yes	No	Yes	Yes	Don't know	Don't know	Yes	Maybe	No	No	No	No	Don't know	No
+female	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	Yes	No	Don't know	Don't know	Yes	Yes	No	No	No	No	No	No
+male	United States	No	No	Yes	500-1000	Yes	Yes	Yes	Yes	Don't know	Don't know	Don't know	Don't know	Maybe	No	No	No	No	Maybe	Don't know	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Don't know	Maybe	Maybe	Yes	Yes	No	Maybe	Yes	Yes
+male	United States	No	No	Yes	6-25	Yes	Yes	Yes	Yes	No	Yes	Don't know	Don't know	Maybe	Maybe	Some of them	No	No	No	Don't know	No
+female	United Kingdom	No	Yes	Yes	6-25	Yes	Yes	No	No	No	No	Don't know	Very easy	No	No	Yes	Yes	No	No	Don't know	No
+male	United States	No	Yes	Yes	26-100	No	Yes	Don't know	Yes	No	Yes	Don't know	Somewhat easy	No	No	Yes	Yes	No	No	Don't know	No
+female	Canada	No	Yes	Yes	6-25	No	Yes	Yes	Yes	No	No	Yes	Somewhat easy	No	No	Some of them	Yes	No	No	Don't know	No
+male	United Kingdom	No	No	Yes	26-100	No	Yes	No	No	No	No	Don't know	Somewhat difficult	Yes	Maybe	Some of them	No	No	Maybe	No	No
+male	United States	Yes	No	No	1-5	Yes	Yes	No	Yes	No	No	Yes	Somewhat easy	Maybe	Maybe	Some of them	Some of them	Maybe	Maybe	Don't know	No
+male	United Kingdom	Yes	No	Yes	1-5	Yes	Yes	No	No	No	No	Yes	Somewhat difficult	No	No	Some of them	Some of them	No	No	Yes	No
+male	United States	No	No	No	More than 1000	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Very easy	No	No	Some of them	Yes	Maybe	Yes	Yes	No
+female	United States	No	Yes	Yes	More than 1000	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	Yes	Yes	No	No	No	No	Don't know	No
+male	United States	No	Yes	No	6-25	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Somewhat easy	No	No	Some of them	Yes	No	Yes	Don't know	No
+male	United States	No	Yes	Yes	26-100	No	No	Yes	Yes	No	Yes	Yes	Somewhat difficult	Maybe	No	Some of them	Some of them	No	No	No	No
+male	United States	No	Yes	Yes	26-100	No	No	Yes	No	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	Yes	No
+male	United States	No	Yes	No	500-1000	No	Yes	Yes	No	Don't know	Don't know	Don't know	Very easy	No	No	Yes	Yes	Yes	Yes	Yes	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	No	Yes	No	Don't know	Don't know	Yes	Maybe	No	No	No	No	Don't know	No
+male	United States	No	Yes	No	500-1000	No	No	Yes	Not sure	No	Don't know	Don't know	Don't know	Maybe	No	No	Some of them	No	Maybe	No	No
+male	United States	No	No	No	26-100	No	Yes	Yes	Yes	Yes	Yes	Don't know	Somewhat easy	No	No	Some of them	Some of them	Maybe	Maybe	Yes	No
+male	United States	No	No	No	100-500	Yes	Yes	Yes	No	No	No	Yes	Don't know	No	No	Yes	Yes	Maybe	Maybe	Don't know	No
+male	United States	No	Yes	No	100-500	No	Yes	Don't know	No	Don't know	Don't know	Don't know	Very easy	No	No	Some of them	Yes	No	No	Don't know	No
+female	United States	No	Yes	Yes	6-25	No	No	Yes	Not sure	Yes	Yes	Yes	Somewhat difficult	Maybe	Maybe	Some of them	Yes	No	Maybe	Yes	No
+male	United States	No	No	No	1-5	No	Yes	Don't know	No	No	Yes	Don't know	Very easy	No	No	Some of them	Yes	No	Maybe	Yes	No
+male	United States	No	No	Yes	100-500	Yes	Yes	Yes	Yes	No	Yes	Yes	Very difficult	Yes	Maybe	Some of them	No	No	Maybe	No	Yes
+male	United States	No	Yes	Yes	100-500	No	Yes	No	Not sure	No	No	Don't know	Very difficult	Yes	Yes	No	Some of them	No	Maybe	No	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Don't know	Not sure	No	Yes	Yes	Very difficult	Maybe	No	Some of them	Some of them	Yes	Yes	No	Yes
+male	United Kingdom	Yes	Yes	Yes	1-5	Yes	No	No	No	No	No	Yes	Very difficult	Maybe	No	No	No	No	No	No	No
+male	United States	No	No	Yes	6-25	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Yes	Maybe	No	No	No	Maybe	Don't know	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Maybe	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	Yes	Yes	6-25	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat difficult	Maybe	Maybe	Some of them	Yes	No	Maybe	No	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	Don't know	Don't know	Don't know	Don't know	Maybe	No	Some of them	No	No	No	No	No
+male	United States	No	Yes	Yes	More than 1000	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Very difficult	Yes	No	Some of them	Some of them	No	Maybe	Don't know	Yes
+female	United States	No	Yes	Yes	500-1000	No	Yes	Yes	Yes	No	Don't know	Yes	Somewhat easy	Maybe	No	Some of them	Yes	No	No	Yes	No
+male	United States	No	Yes	No	100-500	No	Yes	Yes	Yes	Yes	Yes	Don't know	Don't know	Yes	No	Some of them	No	No	No	Don't know	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Don't know	No	Don't know	Don't know	Don't know	Somewhat easy	Maybe	No	Some of them	No	No	Maybe	No	No
+male	United States	No	Yes	Yes	26-100	No	Yes	Yes	Yes	No	No	Yes	Don't know	Yes	No	Some of them	No	No	No	No	No
+male	United States	No	No	No	More than 1000	No	No	Yes	Yes	Yes	Yes	Don't know	Don't know	No	No	Some of them	Some of them	No	No	Yes	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Don't know	Somewhat easy	No	No	Yes	Yes	Maybe	Yes	Yes	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Don't know	Yes	Don't know	Very difficult	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	Yes	Yes	6-25	No	Yes	Yes	Yes	Don't know	Don't know	Yes	Very easy	Maybe	No	Some of them	Some of them	No	No	Don't know	No
+male	United Kingdom	No	Yes	Yes	26-100	No	No	Don't know	Yes	No	No	No	Somewhat easy	Yes	Maybe	Some of them	Yes	No	Maybe	No	Yes
+female	United States	No	Yes	Yes	6-25	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Yes	Maybe	Some of them	No	No	No	Don't know	No
+male	United States	No	No	No	6-25	No	Yes	No	No	No	No	Yes	Don't know	Maybe	No	Some of them	Yes	Maybe	Maybe	Don't know	No
+male	United States	No	Yes	No	More than 1000	No	No	Don't know	No	No	Don't know	Don't know	Don't know	Yes	Maybe	No	No	No	No	No	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Some of them	No	Maybe	No	No
+male	United Kingdom	No	No	No	More than 1000	No	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Yes	Maybe	Maybe	Don't know	No
+male	United Kingdom	No	No	No	6-25	No	Yes	Don't know	No	No	No	Don't know	Very easy	No	No	No	Yes	No	Maybe	No	No
+male	United Kingdom	Yes	Yes	No	1-5	Yes	Yes	Don't know	Not sure	No	No	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	Maybe	Don't know	No
+male	United Kingdom	No	No	Yes	More than 1000	No	No	Yes	Yes	Yes	Yes	Don't know	Somewhat easy	Yes	Maybe	No	Some of them	No	Maybe	No	Yes
+male	United Kingdom	Yes	Yes	Yes	1-5	Yes	Yes	No	Yes	No	No	No	Very difficult	Yes	Maybe	Some of them	Some of them	No	Maybe	No	Yes
+female	United Kingdom	Yes	Yes	Yes	1-5	Yes	Yes	No	No	No	No	Don't know	Very easy	Maybe	No	Some of them	Yes	No	Maybe	Yes	No
+male	United Kingdom	No	No	No	6-25	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Very easy	No	No	Yes	Yes	No	No	Don't know	No
+male	United Kingdom	No	Yes	No	100-500	No	No	Don't know	No	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+female	United Kingdom	Yes	No	Yes	1-5	Yes	Yes	No	Yes	Yes	Yes	Yes	Very easy	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	Yes	Yes	No	Not sure	No	No	Don't know	Very difficult	Yes	Maybe	No	No	No	Maybe	No	Yes
+male	United Kingdom	Yes	No	Yes	6-25	No	Yes	No	Yes	No	No	No	Very difficult	Yes	Yes	No	No	No	No	Yes	Yes
+male	United States	No	Yes	Yes	6-25	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	No	No	Yes	Yes	No	Maybe	Don't know	No
+male	United States	No	Yes	No	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Don't know	No	No	Yes	Yes	No	No	Yes	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Maybe	Maybe	Some of them	Some of them	No	Maybe	No	Yes
+male	United Kingdom	No	Yes	Yes	26-100	No	Yes	No	No	No	No	Don't know	Somewhat easy	Maybe	Maybe	Yes	Yes	No	No	No	No
+male	United States	No	Yes	Yes	1-5	Yes	Yes	No	No	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	Yes	No	Maybe	No	No
+female	Canada	Yes	Yes	Yes	1-5	Yes	Yes	No	Yes	No	No	Yes	Somewhat easy	Yes	Maybe	Some of them	Some of them	Maybe	Maybe	Don't know	Yes
+female	United Kingdom	No	Yes	Yes	26-100	Yes	No	Yes	Yes	No	Yes	No	Somewhat easy	Yes	Yes	Some of them	No	No	No	Don't know	No
+male	United States	No	Yes	Yes	100-500	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	Yes	Don't know	No
+male	Canada	No	No	No	26-100	No	Yes	Yes	Not sure	Yes	No	Yes	Very easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United Kingdom	No	No	Yes	6-25	Yes	Yes	No	No	No	No	Don't know	Very easy	No	No	Yes	Yes	No	Yes	Yes	No
+female	United Kingdom	No	Yes	No	500-1000	Yes	Yes	Don't know	Not sure	No	No	Don't know	Somewhat difficult	Yes	Yes	No	No	No	No	No	Yes
+male	United Kingdom	No	No	No	6-25	No	Yes	No	No	No	No	No	Somewhat difficult	Yes	No	No	No	No	Yes	Yes	No
+male	United States	No	Yes	No	26-100	No	Yes	Yes	Not sure	Yes	Yes	Yes	Somewhat easy	No	No	No	No	No	Maybe	Don't know	No
+male	United Kingdom	No	No	No	1-5	Yes	Yes	No	No	No	No	Yes	Somewhat easy	No	No	Some of them	Yes	No	No	Don't know	No
+male	United Kingdom	No	No	No	6-25	No	Yes	Yes	No	No	Yes	Don't know	Very easy	No	No	Yes	Yes	No	No	Yes	No
+female	United States	No	Yes	Yes	26-100	No	Yes	Yes	Yes	Yes	Don't know	Yes	Very easy	No	No	Some of them	No	No	No	Yes	No
+male	United Kingdom	Yes	No	No	1-5	Yes	Yes	No	Yes	No	No	Yes	Very easy	Maybe	Maybe	No	No	No	No	Yes	No
+male	United Kingdom	Yes	No	No	1-5	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Somewhat easy	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	No	Yes	100-500	Yes	Yes	Yes	Yes	No	No	Yes	Very easy	Maybe	No	Some of them	Yes	No	No	Don't know	No
+female	United States	No	Yes	No	More than 1000	No	No	Yes	Not sure	No	Don't know	Don't know	Don't know	Yes	Yes	No	No	No	No	Don't know	No
+male	United Kingdom	No	No	No	500-1000	No	Yes	No	No	No	No	Don't know	Don't know	Yes	No	No	No	No	No	Don't know	No
+male	United States	No	Yes	Yes	6-25	Yes	Yes	Yes	Yes	No	Don't know	Yes	Somewhat easy	No	No	Yes	Yes	Maybe	Maybe	Don't know	No
+male	United States	No	Yes	Yes	6-25	Yes	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	Yes	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	100-500	No	Yes	Yes	Yes	No	No	Yes	Very easy	No	No	Yes	Yes	Maybe	Maybe	Don't know	No
+female	United States	No	No	Yes	26-100	Yes	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	No	Maybe	Maybe	Don't know	Yes
+male	United Kingdom	No	Yes	Yes	1-5	No	Yes	No	Yes	No	No	Yes	Very easy	Yes	Yes	Some of them	Some of them	No	Maybe	Yes	Yes
+male	United Kingdom	No	No	No	500-1000	No	Yes	Don't know	No	No	Don't know	Don't know	Very easy	Maybe	No	Yes	Yes	No	No	Yes	No
+male	United States	No	Yes	Yes	100-500	Yes	No	Yes	Yes	No	Yes	Yes	Very easy	No	No	Yes	Yes	Yes	Yes	Don't know	No
+male	United States	No	No	No	100-500	No	Yes	Don't know	No	No	No	Don't know	Don't know	Yes	No	Some of them	No	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	6-25	Yes	Yes	No	Yes	No	No	Yes	Somewhat easy	No	No	Some of them	Yes	Maybe	Yes	Yes	No
+female	United States	No	No	No	100-500	No	Yes	Don't know	Not sure	No	No	Don't know	Don't know	Yes	No	No	No	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	No	Yes	Yes	Yes	Yes	Yes	Don't know	Maybe	No	No	Yes	No	No	Don't know	No
+female	United States	Yes	No	No	1-5	Yes	Yes	No	Yes	Don't know	Don't know	Yes	Somewhat easy	Maybe	No	No	Some of them	No	No	Yes	No
+female	United States	No	Yes	No	More than 1000	No	No	Yes	Yes	No	Don't know	Don't know	Somewhat difficult	Yes	Maybe	Some of them	Some of them	No	No	No	Yes
+female	United States	No	Yes	No	26-100	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	Not sure	Yes	Yes	Yes	Don't know	Yes	Maybe	Some of them	Some of them	No	Maybe	Yes	No
+female	United States	No	No	No	6-25	No	Yes	Don't know	Not sure	No	No	Don't know	Somewhat easy	No	No	Yes	Yes	No	Maybe	Yes	No
+female	United States	No	No	Yes	More than 1000	No	No	Yes	Yes	Yes	Yes	Don't know	Don't know	Yes	No	Some of them	Some of them	No	No	No	Yes
+male	United States	No	Yes	Yes	26-100	Yes	Yes	Yes	No	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+male	United States	No	No	No	26-100	Yes	Yes	Don't know	No	No	No	Don't know	Somewhat easy	Yes	No	Some of them	Some of them	No	Yes	Don't know	Yes
+male	Canada	No	No	No	26-100	Yes	Yes	Don't know	No	No	No	Don't know	Somewhat easy	No	No	Some of them	Some of them	No	Maybe	No	No
+female	United States	No	Yes	Yes	500-1000	No	No	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Maybe	Maybe	Some of them	Some of them	No	No	No	Yes
+male	United States	No	No	No	6-25	No	Yes	Yes	Yes	Yes	Yes	Don't know	Somewhat easy	No	No	Yes	Yes	No	Maybe	Yes	No
+male	United Kingdom	No	No	No	6-25	No	Yes	No	No	No	No	Don't know	Don't know	Maybe	Maybe	No	No	No	Maybe	Don't know	No
+male	United States	No	Yes	No	26-100	Yes	Yes	Don't know	No	No	No	Don't know	Somewhat easy	Maybe	No	Some of them	Some of them	No	Maybe	No	No
+male	United States	No	Yes	Yes	6-25	Yes	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	No
+female	United States	No	No	No	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Don't know	Don't know	Maybe	No	Some of them	Yes	Maybe	No	Yes	No
+male	United States	No	No	No	1-5	No	Yes	Don't know	Not sure	No	No	Don't know	Don't know	No	No	Some of them	Yes	Maybe	Maybe	Don't know	No
+female	United States	No	Yes	No	100-500	Yes	Yes	Yes	Yes	Yes	No	Don't know	Don't know	Yes	Yes	No	No	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	No	Yes	Not sure	Yes	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	Yes	No	No	Don't know	No
+male	United States	No	Yes	No	6-25	No	Yes	Don't know	Not sure	No	No	Don't know	Don't know	No	No	Some of them	Yes	No	No	Yes	No
+male	United States	No	Yes	Yes	6-25	No	Yes	Don't know	Not sure	Don't know	Don't know	Yes	Don't know	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United States	No	Yes	No	More than 1000	Yes	No	Yes	Not sure	Yes	Don't know	Don't know	Don't know	Yes	Maybe	Some of them	Some of them	No	Maybe	No	No
+female	United States	No	Yes	Yes	26-100	No	Yes	No	No	No	No	No	Very difficult	Yes	No	No	No	No	Yes	No	Yes
+male	United States	No	No	No	100-500	No	No	Don't know	No	No	Don't know	Don't know	Don't know	Yes	Maybe	No	No	No	Maybe	Don't know	Yes
+male	Canada	No	Yes	No	6-25	Yes	Yes	No	Yes	No	No	Don't know	Don't know	Maybe	No	No	Some of them	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	Yes	No	Don't know	No	Don't know	Don't know	Yes	Don't know	Yes	No	Some of them	No	No	No	No	No
+female	United States	No	No	No	1-5	No	Yes	No	Not sure	No	No	Don't know	Very easy	No	No	Some of them	Yes	No	Maybe	Yes	No
+male	United States	No	No	No	6-25	Yes	Yes	No	No	No	No	Don't know	Don't know	No	No	No	No	No	No	Don't know	No
+female	United States	No	Yes	Yes	26-100	Yes	Yes	Don't know	No	No	No	Don't know	Somewhat easy	Yes	No	Some of them	Some of them	No	Maybe	No	No
+male	United States	No	No	No	6-25	Yes	Yes	Yes	No	Don't know	Yes	Yes	Don't know	No	No	Some of them	Yes	No	No	Yes	No
+male	United States	No	Yes	Yes	More than 1000	Yes	Yes	Yes	Yes	No	Yes	Don't know	Don't know	Yes	No	No	No	No	Maybe	Don't know	No
+male	United States	No	No	Yes	6-25	No	Yes	Yes	Yes	No	No	Yes	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+female	United Kingdom	No	No	Yes	More than 1000	No	No	Yes	Yes	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	Yes	No	Yes
+female	Canada	No	Yes	Yes	100-500	No	Yes	Yes	Not sure	No	No	Yes	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+male	United States	Yes	No	Yes	1-5	Yes	No	No	Yes	Yes	Yes	Yes	Very difficult	No	No	Some of them	Some of them	No	No	Yes	Yes
+male	United Kingdom	Yes	Yes	Yes	1-5	Yes	Yes	No	Yes	Yes	Yes	Yes	Somewhat difficult	No	No	Yes	Yes	No	Maybe	Yes	Yes
+female	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	No	No	Don't know	Don't know	No	No	Some of them	Yes	No	Maybe	No	Yes
+female	United States	No	Yes	No	26-100	No	No	No	No	No	No	Don't know	Somewhat difficult	Yes	No	No	Some of them	No	Maybe	No	No
+male	United States	No	No	No	1-5	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Very easy	No	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	No	Don't know	No	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	No	No
+male	United States	No	Yes	Yes	500-1000	No	Yes	Yes	Yes	No	Don't know	Yes	Very easy	No	No	Some of them	Yes	No	No	Yes	No
+male	United States	No	No	No	6-25	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	Yes	Maybe	Maybe	Don't know	No
+male	United States	Yes	No	No	6-25	Yes	Yes	Don't know	No	No	No	No	Very easy	Maybe	No	Some of them	Yes	No	Maybe	Yes	No
+male	Canada	No	Yes	Yes	More than 1000	No	Yes	Yes	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+female	United States	No	No	Yes	6-25	No	Yes	Yes	Yes	Don't know	Yes	Yes	Very easy	No	No	Some of them	Some of them	No	Yes	Don't know	No
+female	United States	No	No	Yes	More than 1000	Yes	No	Yes	No	No	No	Don't know	Somewhat easy	No	No	Some of them	Yes	Maybe	Maybe	Don't know	No
+male	United States	No	No	Yes	100-500	No	Yes	Don't know	Not sure	No	No	Yes	Very difficult	Maybe	No	Some of them	No	No	Maybe	No	No
+male	United States	Yes	No	No	1-5	Yes	Yes	Don't know	No	No	No	Yes	Somewhat difficult	No	No	No	No	No	No	Don't know	No
+male	United States	No	No	Yes	6-25	Yes	Yes	Don't know	No	No	No	Don't know	Somewhat easy	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+male	United States	No	No	No	6-25	Yes	Yes	Yes	Not sure	Don't know	Don't know	Don't know	Somewhat easy	Maybe	Maybe	No	Some of them	No	Maybe	Don't know	No
+male	United States	No	No	No	More than 1000	No	No	Yes	Yes	No	Don't know	Don't know	Somewhat difficult	Maybe	No	No	Yes	No	No	Don't know	No
+male	United States	No	No	No	26-100	No	No	Yes	Yes	Yes	Yes	Yes	Don't know	Maybe	No	Some of them	Yes	No	Maybe	Don't know	No
+female	United States	No	No	Yes	6-25	Yes	Yes	No	No	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	Maybe	No	No
+male	United States	No	No	No	More than 1000	Yes	Yes	Yes	Not sure	No	Yes	Don't know	Don't know	Maybe	No	No	No	No	No	Don't know	No
+male	United States	No	No	No	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Don't know	Don't know	Maybe	Maybe	Some of them	No	No	No	Yes	Yes
+male	United States	No	No	No	More than 1000	No	No	Don't know	No	No	No	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	No	Yes	100-500	No	Yes	Yes	Yes	No	No	Don't know	Somewhat easy	Maybe	No	Some of them	No	No	Maybe	No	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Don't know	Yes	Yes	No	No	No	Maybe	No	Yes
+male	United States	Yes	Yes	Yes	1-5	Yes	Yes	Yes	Not sure	No	Don't know	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	Maybe	Don't know	No
+female	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Very difficult	Maybe	No	Yes	Some of them	No	Maybe	No	Yes
+female	United States	No	Yes	Yes	26-100	Yes	Yes	Yes	Yes	No	Don't know	Don't know	Don't know	Yes	Maybe	No	No	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	1-5	No	Yes	No	Yes	No	No	Yes	Very easy	Maybe	No	Yes	Yes	No	Maybe	No	No
+female	United States	No	Yes	Yes	More than 1000	No	No	Yes	No	No	No	Don't know	Somewhat difficult	Yes	No	No	No	No	Maybe	No	No
+female	Canada	No	Yes	Yes	26-100	No	No	Don't know	No	Yes	Don't know	Don't know	Somewhat easy	No	No	Some of them	Some of them	No	No	Yes	No
+male	United Kingdom	No	Yes	Yes	1-5	No	No	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Maybe	Maybe	Some of them	Some of them	No	Maybe	No	No
+male	United States	No	Yes	No	More than 1000	No	No	Yes	Not sure	Yes	Yes	Don't know	Don't know	Yes	Maybe	Some of them	No	No	No	No	No
+male	United States	No	No	Yes	26-100	No	Yes	Yes	Yes	Yes	Don't know	Yes	Don't know	No	No	Some of them	Yes	No	Maybe	Don't know	No
+female	United States	No	Yes	Yes	100-500	No	Yes	Yes	Yes	Don't know	Don't know	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	Yes	No
+male	United States	Yes	No	No	1-5	Yes	Yes	No	Yes	No	No	Yes	Very easy	No	No	Some of them	Some of them	No	Maybe	Yes	No
+male	United States	No	Yes	No	100-500	No	No	Yes	Yes	No	Don't know	Don't know	Somewhat easy	Maybe	No	Some of them	Some of them	No	Maybe	No	No
+male	United States	No	Yes	Yes	100-500	No	Yes	No	Yes	No	No	Don't know	Very difficult	Yes	No	Yes	Yes	No	Yes	No	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Don't know	Yes	Don't know	Yes	No	No	No	No	No	Yes	No
+male	United States	No	No	Yes	100-500	No	Yes	Yes	No	No	Yes	Yes	Very easy	No	No	No	Yes	No	No	Yes	No
+male	United States	Yes	No	Yes	1-5	No	No	No	Yes	No	No	No	Very difficult	No	No	No	No	No	No	No	Yes
+male	United States	No	Yes	Yes	6-25	Yes	Yes	Don't know	No	No	No	Don't know	Very easy	No	No	Yes	Yes	Maybe	Yes	Yes	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Not sure	Yes	Don't know	Don't know	Somewhat difficult	Maybe	No	Some of them	Some of them	No	Maybe	Don't know	Yes
+male	United States	No	No	No	More than 1000	No	No	Don't know	Not sure	Yes	Don't know	Yes	Somewhat easy	No	No	Some of them	Yes	No	Maybe	Yes	No
+male	United States	No	No	No	500-1000	No	Yes	Don't know	No	No	Don't know	Don't know	Don't know	No	No	Yes	Some of them	No	No	Yes	No
+male	United States	No	No	No	6-25	Yes	Yes	Yes	Not sure	No	Yes	Don't know	Don't know	Maybe	No	Some of them	Yes	Maybe	Yes	Don't know	No
+male	United States	No	Yes	No	100-500	No	Yes	Don't know	Not sure	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+female	Canada	Yes	Yes	Yes	1-5	Yes	Yes	No	Yes	No	No	No	Very difficult	Yes	Yes	No	No	No	Maybe	No	Yes
+female	United States	No	Yes	No	6-25	Yes	Yes	Don't know	No	No	No	Don't know	Somewhat easy	No	No	Yes	Some of them	No	No	Yes	No
+male	United States	No	No	No	6-25	Yes	Yes	Yes	No	No	No	Don't know	Don't know	Yes	Maybe	Some of them	No	No	Maybe	Don't know	No
+male	United States	No	No	Yes	6-25	Yes	Yes	No	Yes	No	Don't know	Don't know	Somewhat easy	Maybe	No	No	Some of them	No	Maybe	Don't know	No
+female	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Don't know	Don't know	Don't know	Don't know	Yes	No	No	No	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	1-5	Yes	Yes	Don't know	No	Don't know	Don't know	Don't know	Very easy	No	No	Yes	Yes	Maybe	Yes	Don't know	No
+male	United States	No	No	No	More than 1000	No	No	Yes	Not sure	Don't know	Don't know	Don't know	Somewhat easy	Maybe	No	Some of them	Some of them	No	Maybe	Don't know	No
+male	Canada	No	No	No	26-100	No	Yes	Yes	Yes	No	No	Yes	Don't know	Maybe	No	No	No	No	Maybe	Don't know	Yes
+male	United Kingdom	No	No	Yes	100-500	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Very easy	Maybe	No	Yes	Some of them	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	6-25	No	Yes	Don't know	Yes	No	Don't know	Don't know	Don't know	Yes	Maybe	No	Some of them	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	More than 1000	No	No	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Yes	No	No	Yes	No	Yes	Don't know	No
+male	United States	No	No	No	1-5	Yes	Yes	No	Yes	No	No	Don't know	Don't know	Yes	Yes	No	No	No	No	Don't know	No
+male	United Kingdom	Yes	No	Yes	1-5	No	Yes	No	Yes	Yes	Yes	Yes	Very easy	No	No	Some of them	Yes	No	Yes	No	Yes
+male	United Kingdom	No	No	Yes	More than 1000	No	No	No	No	No	Yes	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	No	No
+female	United Kingdom	No	No	Yes	100-500	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Very easy	Maybe	No	Some of them	Some of them	No	Maybe	No	No
+female	United States	No	No	Yes	26-100	No	No	Don't know	No	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Some of them	No	Maybe	Don't know	No
+male	United States	No	No	No	6-25	No	Yes	Don't know	Not sure	Don't know	Don't know	Yes	Don't know	No	No	No	No	No	No	Yes	No
+female	United States	No	No	Yes	26-100	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Some of them	Maybe	Maybe	Don't know	No
+male	United States	No	No	No	More than 1000	No	No	Yes	No	No	No	Yes	Somewhat easy	Maybe	No	No	No	No	Yes	No	No
+female	United States	No	Yes	Yes	26-100	No	No	Yes	Yes	No	No	Don't know	Don't know	Yes	No	Some of them	Some of them	No	Yes	No	No
+male	United Kingdom	No	No	No	26-100	No	Yes	No	No	No	No	Don't know	Don't know	Maybe	No	No	No	No	No	Don't know	Yes
+female	United States	No	Yes	Yes	More than 1000	Yes	Yes	Yes	Yes	No	No	Yes	Somewhat easy	Maybe	Maybe	Some of them	No	No	No	Don't know	No
+male	United Kingdom	No	No	Yes	More than 1000	No	No	No	No	No	No	Yes	Somewhat easy	Maybe	No	Yes	Yes	Maybe	Maybe	No	No
+male	United Kingdom	No	Yes	Yes	26-100	Yes	Yes	No	No	No	No	Yes	Very easy	No	No	Some of them	Yes	No	Maybe	Yes	No
+male	United Kingdom	No	Yes	No	6-25	No	Yes	No	No	No	No	Don't know	Somewhat difficult	Maybe	Maybe	Some of them	Some of them	Maybe	Maybe	Don't know	No
+male	United Kingdom	No	No	Yes	More than 1000	No	No	Don't know	No	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	No	No	No	Don't know	No
+female	United Kingdom	No	Yes	No	More than 1000	No	No	No	Yes	No	No	Yes	Don't know	Maybe	No	No	No	No	Yes	Yes	No
+female	United States	No	Yes	No	26-100	Yes	Yes	Don't know	No	No	No	Don't know	Don't know	Maybe	No	No	No	No	No	Don't know	No
+male	United Kingdom	No	Yes	Yes	1-5	No	Yes	No	Not sure	Don't know	Don't know	Don't know	Very easy	No	No	Some of them	Yes	Maybe	Yes	Don't know	No
+male	United Kingdom	No	Yes	Yes	More than 1000	No	No	No	No	No	No	Yes	Very easy	Maybe	Maybe	Some of them	Yes	Maybe	Maybe	Yes	No
+male	United States	No	Yes	Yes	More than 1000	No	No	Yes	Yes	No	Yes	Don't know	Somewhat easy	Yes	No	No	Some of them	No	Yes	Don't know	No
+male	United States	No	No	No	6-25	No	Yes	Yes	Not sure	No	Don't know	Don't know	Don't know	Maybe	No	No	Some of them	No	Maybe	Don't know	No
+male	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	Yes	Yes	Yes	Somewhat difficult	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	Yes
+male	United Kingdom	No	No	No	6-25	No	Yes	No	No	No	No	Don't know	Don't know	Yes	Maybe	Some of them	No	No	Maybe	Don't know	No
+male	Canada	No	Yes	Yes	100-500	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Don't know	No	No	Yes	Yes	No	Maybe	No	No
+female	United Kingdom	No	Yes	No	26-100	No	No	Yes	Yes	Yes	Yes	Yes	Very easy	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+male	United States	No	Yes	Yes	26-100	No	No	Don't know	Not sure	No	No	Don't know	Somewhat easy	Yes	No	Some of them	Some of them	No	Maybe	Don't know	No
+male	Canada	Yes	No	No	6-25	Yes	Yes	Don't know	Not sure	No	No	Don't know	Very easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United Kingdom	No	Yes	Yes	6-25	No	Yes	Don't know	Not sure	No	Don't know	Don't know	Somewhat easy	No	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	Yes	Yes	6-25	No	Yes	No	Yes	No	No	Don't know	Don't know	No	No	No	No	No	No	Don't know	No
+male	United States	No	No	Yes	26-100	No	Yes	Yes	Yes	No	No	Don't know	Don't know	Yes	No	Some of them	Some of them	No	Maybe	Don't know	No
+male	United Kingdom	No	No	No	100-500	No	Yes	Yes	No	No	Yes	Don't know	Don't know	Maybe	Yes	Some of them	No	No	No	Yes	No
+male	United States	No	Yes	Yes	6-25	Yes	Yes	Don't know	No	No	Don't know	Don't know	Somewhat easy	Maybe	No	Some of them	Some of them	Maybe	Maybe	Don't know	No
+female	United States	No	No	Yes	100-500	Yes	No	Yes	Yes	No	No	Yes	Don't know	Maybe	No	Some of them	Some of them	No	Maybe	No	No
+male	United States	No	Yes	No	More than 1000	No	Yes	Yes	No	Yes	Don't know	Don't know	Don't know	Maybe	No	Yes	Yes	No	No	Don't know	No
+male	United States	No	Yes	Yes	26-100	No	No	Yes	Yes	Yes	Yes	Don't know	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+female	United States	No	No	Yes	More than 1000	No	Yes	Yes	Yes	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	No	No	No	No	No
+male	United States	No	No	No	More than 1000	No	Yes	Don't know	Not sure	No	No	Don't know	Don't know	Maybe	No	Some of them	Yes	Maybe	Yes	No	No
+male	United States	No	No	No	More than 1000	No	No	Yes	No	Yes	Yes	Don't know	Don't know	Yes	Maybe	No	No	No	No	Don't know	No
+female	United States	No	Yes	Yes	26-100	No	Yes	Yes	Yes	No	Yes	Yes	Somewhat easy	No	No	Yes	Yes	No	Maybe	Yes	Yes
+male	United Kingdom	No	No	Yes	1-5	No	Yes	No	No	No	No	Don't know	Very difficult	Maybe	No	Yes	Yes	Yes	Yes	No	Yes
+male	United States	No	Yes	No	6-25	No	Yes	Don't know	No	No	No	Don't know	Somewhat difficult	No	No	Some of them	Yes	No	No	Don't know	Yes
+female	United States	No	Yes	Yes	100-500	No	Yes	Yes	No	No	No	Don't know	Don't know	Maybe	Maybe	No	No	No	Maybe	No	No
+male	United States	No	No	No	26-100	No	Yes	No	No	No	Don't know	Don't know	Don't know	No	No	Some of them	Yes	No	Yes	No	Yes
+female	United States	No	No	Yes	26-100	No	Yes	Yes	Yes	No	No	Yes	Don't know	Maybe	Maybe	Some of them	No	No	No	No	No
+male	United States	No	Yes	Yes	More than 1000	No	No	Yes	Yes	Yes	Yes	Yes	Don't know	Maybe	No	Some of them	No	No	Maybe	No	Yes
+female	United States	No	Yes	Yes	500-1000	Yes	No	Yes	Not sure	Don't know	Yes	Don't know	Somewhat easy	Maybe	Maybe	Some of them	Yes	No	No	Don't know	Yes
+female	United States	No	Yes	Yes	1-5	Yes	Yes	No	No	No	No	Yes	Don't know	Maybe	Maybe	Some of them	Some of them	No	No	Yes	No
+female	United States	No	No	Yes	6-25	No	Yes	No	Yes	No	No	Don't know	Very difficult	Yes	Maybe	Some of them	Some of them	No	No	Don't know	No
+female	United States	No	No	No	100-500	No	No	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Yes	No	No	Yes	No
+female	United States	Yes	No	No	1-5	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	Maybe	Maybe	No	No	No	No	Don't know	No
+male	United States	No	Yes	Yes	26-100	Yes	Yes	Yes	No	No	No	Don't know	Don't know	Maybe	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	Yes	Yes	6-25	No	Yes	Yes	Yes	No	No	Yes	Don't know	Maybe	No	Some of them	No	No	No	Yes	No
+male	United States	No	Yes	Yes	100-500	No	Yes	Yes	Yes	No	Yes	Yes	Don't know	Maybe	No	Some of them	Some of them	No	No	Don't know	No
+male	Canada	No	Yes	No	More than 1000	No	Yes	Yes	Not sure	Yes	Yes	Yes	Don't know	Maybe	No	No	No	No	Maybe	Don't know	No
+male	United Kingdom	No	No	No	26-100	Yes	Yes	Don't know	No	No	No	Don't know	Somewhat easy	No	No	Some of them	Yes	No	Yes	Don't know	No
+male	United States	No	No	Yes	26-100	Yes	Yes	Yes	Not sure	No	Don't know	Don't know	Very difficult	Yes	Maybe	Some of them	No	No	No	Don't know	No
+female	United States	No	No	Yes	6-25	No	Yes	Yes	No	No	No	Don't know	Somewhat easy	Yes	Yes	Some of them	No	No	No	No	Yes
+male	United Kingdom	No	No	No	100-500	No	Yes	Don't know	Not sure	No	No	Don't know	Somewhat easy	Maybe	Maybe	Some of them	Yes	No	Maybe	Don't know	No
+male	United Kingdom	No	Yes	No	26-100	Yes	No	Don't know	Not sure	No	No	Don't know	Somewhat easy	Maybe	No	Some of them	Yes	Maybe	Yes	Yes	No
+male	United States	No	No	Yes	1-5	No	Yes	No	Yes	No	No	No	Very easy	Maybe	Maybe	Some of them	Yes	No	No	No	No
+female	United Kingdom	No	No	Yes	More than 1000	No	No	No	Yes	No	Yes	Yes	Somewhat difficult	Maybe	Maybe	Some of them	Yes	No	Maybe	No	Yes
+male	United States	No	No	Yes	26-100	Yes	Yes	Yes	Yes	No	No	Yes	Don't know	Maybe	No	Some of them	No	No	Maybe	Don't know	No
+male	United Kingdom	No	No	No	More than 1000	Yes	No	Don't know	Not sure	No	Yes	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+male	United States	No	No	Yes	More than 1000	Yes	Yes	Yes	No	Yes	Yes	Yes	Very easy	No	No	Yes	Yes	No	No	Don't know	No
+male	United States	No	Yes	Yes	26-100	No	Yes	Don't know	No	No	No	Don't know	Don't know	Maybe	No	Some of them	No	No	No	No	No
+male	United States	No	Yes	Yes	100-500	Yes	Yes	Don't know	Not sure	Don't know	Don't know	Don't know	Don't know	No	No	Some of them	Yes	Yes	Yes	Don't know	No
+male	United Kingdom	No	No	No	26-100	No	Yes	Don't know	No	No	No	Don't know	Somewhat easy	Maybe	No	Some of them	Some of them	No	Maybe	Yes	Yes
+male	United States	No	Yes	Yes	26-100	No	Yes	Don't know	Yes	No	No	Don't know	Somewhat easy	Yes	No	Some of them	Some of them	No	Maybe	Don't know	No
+female	United Kingdom	No	Yes	Yes	6-25	No	Yes	No	Yes	No	Yes	Yes	Very easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United Kingdom	Yes	No	Yes	6-25	Yes	Yes	No	No	No	No	Don't know	Don't know	Maybe	Maybe	Some of them	Some of them	No	Maybe	Don't know	Yes
+male	United Kingdom	No	Yes	Yes	More than 1000	No	No	Yes	Yes	Yes	Yes	Yes	Very easy	No	No	Yes	Yes	Yes	Yes	Yes	No
+male	United Kingdom	No	No	Yes	6-25	No	Yes	No	Yes	No	No	Don't know	Don't know	No	No	Yes	Yes	No	Maybe	Don't know	No
+male	United Kingdom	No	No	Yes	6-25	No	No	Don't know	No	No	Don't know	Don't know	Don't know	Yes	Maybe	No	No	No	Maybe	Don't know	No
+male	Canada	No	No	Yes	26-100	No	Yes	Yes	Yes	Yes	Don't know	Don't know	Don't know	Maybe	No	Yes	Some of them	No	No	Don't know	No
+male	United States	No	No	Yes	More than 1000	Yes	Yes	Don't know	No	Yes	Don't know	Don't know	Somewhat easy	Maybe	Maybe	Some of them	No	No	Maybe	Don't know	No
+male	United States	No	Yes	Yes	More than 1000	No	No	Yes	Yes	Yes	Yes	Yes	Somewhat easy	Yes	Maybe	Some of them	Yes	No	No	No	Yes
+female	United States	No	Yes	Yes	More than 1000	Yes	Yes	Yes	Yes	No	Yes	Don't know	Don't know	No	No	Some of them	Yes	No	No	Don't know	No
+female	United Kingdom	No	No	No	More than 1000	No	No	No	No	No	Don't know	Don't know	Don't know	Maybe	No	Some of them	Yes	No	Yes	No	No
+male	United States	No	No	No	100-500	No	Yes	Yes	Not sure	Don't know	Yes	Don't know	Somewhat easy	No	No	No	Some of them	Maybe	Yes	Don't know	No
+female	United States	No	Yes	Yes	26-100	No	Yes	Yes	No	No	Don't know	Don't know	Don't know	Yes	Maybe	No	No	No	No	Don't know	No
+male	United States	No	Yes	Yes	26-100	No	Yes	Yes	Yes	Don't know	No	Yes	Very easy	No	No	Yes	Yes	Maybe	Maybe	Yes	No
+male	United States	Yes	Yes	Yes	26-100	No	Yes	Yes	Not sure	Yes	Yes	Don't know	Don't know	No	No	Some of them	Yes	Maybe	Maybe	Yes	No
+male	United States	No	Yes	Yes	100-500	Yes	Yes	Yes	Yes	Yes	No	Yes	Don't know	Yes	No	Some of them	No	No	Maybe	No	No
+male	United States	No	Yes	No	More than 1000	No	No	Don't know	No	Yes	Yes	Don't know	Somewhat easy	Maybe	Maybe	Some of them	Some of them	No	No	Don't know	No
+male	United Kingdom	No	No	Yes	26-100	No	Yes	No	No	No	No	Don't know	Somewhat easy	No	No	Some of them	Some of them	No	No	Don't know	No
+male	United States	No	Yes	Yes	26-100	Yes	Yes	Yes	Yes	No	No	Yes	Somewhat difficult	No	No	Some of them	Yes	No	No	Yes	No
+male	United States	No	Yes	Yes	More than 1000	No	Yes	Yes	Yes	No	No	Don't know	Somewhat difficult	Yes	Yes	No	No	No	No	No	No
+female	United States	No	No	No	100-500	Yes	Yes	No	Yes	No	No	Don't know	Don't know	Yes	No	No	No	No	No	No	No
+male	United States	No	Yes	Yes	26-100	No	No	Yes	Yes	No	No	Yes	Don't know	Maybe	No	Some of them	No	No	No	Don't know	No
