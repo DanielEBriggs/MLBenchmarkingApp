@@ -30,43 +30,43 @@ require(kernlab)
 require(klaR)
 require(vcd)
 require(e1071)
-require(gam)
-require(ipred)
+require(gam) #
+require(ipred) 
 require(MASS)
-require(ellipse)
-require(mda)
-require(mgcv)
-require(mlbench)
-require(party)
-require(MLmetrics)
-require(Cubist)
+require(ellipse) #
+require(mda) #
+require(mgcv) 
+require(mlbench) #
+require(party) #
+require(MLmetrics) #
+require(Cubist) #
 require(testthat)
-require(ada)
-require(fastAdaboost)
-require(adabag)
-require(bartMachine)
-require(arm)
-require(brnn)
-require(monomvn)
-require(mboost)
-require(import)
+require(ada) #
+require(fastAdaboost) #
+require(adabag) #
+require(bartMachine) #
+require(arm) 
+require(brnn) #
+require(monomvn) #
+require(mboost) #
+require(import) #
 require(caTools)
-require(earth)
-require(mda)
-require(C50)
-require(HDclassif)
-require(RSNNS)
+require(earth) #
+require(mda)  
+require(C50) #
+require(HDclassif) #
+require(RSNNS) #
 require(caret)
-require(bnclassify)
-require(FCNN4R)
-#require(obliqueRF)
-require(pls)
+require(bnclassify) #
+require(FCNN4R) #
+#require(obliqueRF) 
+require(pls) #
 require(mda)
 #require(rFerns)
-require(extraTrees)
-require(spls)
+require(extraTrees) #
+require(spls) #
 #require(gbm)
-require(elasticnet)
+require(elasticnet) #
 #require(quantregForest)
 #require(rqPen)
 #require(qrnn)
